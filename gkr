@@ -83,6 +83,59 @@ http://cloudb.tv/wp-content/uploads/2018/12/Young.Sheldon_1x21.mp4
 #EXTINF:0,1x22
 #EXTGRP: Young Sheldon
 http://cloudb.tv/wp-content/uploads/2018/12/Young.Sheldon_1x22.mp4
+#EXTINF:0,1x01
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x01.mp4
+#EXTINF:0,1x02
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x02.mp4
+#EXTINF:0,1x03
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x03.mp4
+#EXTINF:0,1x04
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x04.mp4
+#EXTINF:0,1x05
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x05.mp4
+#EXTINF:0,1x06
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x06.mp4
+#EXTINF:0,1x07
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x07.mp4
+#EXTINF:0,1x08
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/medici-masters-of-florence_1x08.mp4
+#EXTINF:0,2x01
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E01.mp4
+#EXTINF:0,2x02
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E02.mp4
+#EXTINF:0,2x03
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E03.mp4
+#EXTINF:0,2x04
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E04.mp4
+#EXTINF:0,2x05
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E05.mp4
+#EXTINF:0,2x06
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E06.mp4
+#EXTINF:0,2x07
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E07.mp4
+#EXTINF:0,2x08
+#EXTGRP: Medici
+http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E08.mp4
+#EXTINF:0 channel-id="34" epg-id="124" tvg-name="5 1" pay="1" channel-id="stream-name-here" url-epg="https://github.com/xristosxdx/epg.xml/blob/master/11" tvg-shift="+1",test
+#EXTINF:0,1x01
+#EXTGRP: test
+#EXTEPG:https://github.com/xristosxdx/epg.xml/blob/master/11
+http://cloudb.tv/wp-content/uploads/2018/12/112263_2016_1x01.mp4
 #EXTINF:0,Το ψιλο καστρο
 #EXTGRP:Διαφορες σειρες
 https://1fgqfvr.oloadcdn.net/dl/l/KjiWPgW6PvWCR3oJ/tQdLEt_-rVw/the.man.in.the.high.castle.s03e03.web.h264-rbb.mp4?mime=true
