@@ -131,7 +131,6 @@ http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E07.mp4
 #EXTINF:0,2x08
 #EXTGRP: Medici
 http://cloudb.tv/wp-content/uploads/2018/12/Medici.The_.Magnificent.S02E08.mp4
-#EXTINF:0 channel-id="34" epg-id="124" tvg-name="5 1" pay="1" channel-id="stream-name-here" url-epg="https://github.com/xristosxdx/epg.xml/blob/master/11" tvg-shift="+1",test
 #EXTINF:0,1x01
 #EXTGRP: 11.22.63q
 #EXTEPG:https://github.com/xristosxdx/epg.xml/blob/master/11
