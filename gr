@@ -1,0 +1,1207 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="--------------------------ΕΙΔΗΣΕΙΣ- ΨΥΧΑΓΩΓΙΑ-------------------------" tvg-logo="" group-title="ΕΛΛΑΔΑ",--------------------------ΕΙΔΗΣΕΙΣ- ΨΥΧΑΓΩΓΙΑ-------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1967.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ERT WORLD" tvg-logo="http://iptv.iptvsub.info/icons/ert%20world.png" group-title="ΕΛΛΑΔΑ",(GR): ERT WORLD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8734.ts
+#EXTINF:-1 tvg-id="ΕΡΤ HD" tvg-name="(GR): ERT HD" tvg-logo="http://iptv.iptvsub.info:8880/icons/ert_gr_hd.png" group-title="ΕΛΛΑΔΑ",(GR): ERT HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/191.ts
+#EXTINF:-1 tvg-id="ΕΡΤ1" tvg-name="(GR): ERT 1" tvg-logo="http://iptv.iptvsub.info:8880/icons/ERT1.png" group-title="ΕΛΛΑΔΑ",(GR): ERT 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/192.ts
+#EXTINF:-1 tvg-id="ΕΡΤ2" tvg-name="(GR): ERT 2" tvg-logo="http://iptv.iptvsub.info:8880/icons/ert_gr_2.png" group-title="ΕΛΛΑΔΑ",(GR): ERT 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/193.ts
+#EXTINF:-1 tvg-id="ΕΡΤ3" tvg-name="(GR): ERT 3" tvg-logo="http://iptv.iptvsub.info:8880/icons/ert_gr_3.png" group-title="ΕΛΛΑΔΑ",(GR): ERT 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/194.ts
+#EXTINF:-1 tvg-id="Βουλή" tvg-name="(GR): VOULI" tvg-logo="http://iptv.iptvsub.info:8880/icons/vouli_tileorasi_gr.png" group-title="ΕΛΛΑΔΑ",(GR): VOULI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/203.ts
+#EXTINF:-1 tvg-id="Ant1" tvg-name="(GR): ANT1 HD" tvg-logo="http://iptv.iptvsub.info/icons/ANT1HD.png" group-title="ΕΛΛΑΔΑ",(GR): ANT1 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4806.ts
+#EXTINF:-1 tvg-id="ANT1" tvg-name="(GR): ANT1" tvg-logo="http://iptv.iptvsub.info:8880/icons/antenna1_gr.png" group-title="ΕΛΛΑΔΑ",(GR): ANT1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/195.ts
+#EXTINF:-1 tvg-id="MEGA" tvg-name="(GR): MEGA" tvg-logo="http://iptv.iptvsub.info:8880/icons/mega_greece.png" group-title="ΕΛΛΑΔΑ",(GR): MEGA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/196.ts
+#EXTINF:-1 tvg-id="Star" tvg-name="(GR): STAR HD" tvg-logo="http://iptv.iptvsub.info/icons/star_channel_gr.png" group-title="ΕΛΛΑΔΑ",(GR): STAR HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4808.ts
+#EXTINF:-1 tvg-id="STAR" tvg-name="(GR): STAR CHANNEL" tvg-logo="http://iptv.iptvsub.info:8880/icons/star_channel_gr.png" group-title="ΕΛΛΑΔΑ",(GR): STAR CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/198.ts
+#EXTINF:-1 tvg-id="Skai" tvg-name="(GR): SKAI HD" tvg-logo="http://iptv.iptvsub.info/icons/skai-hd.png" group-title="ΕΛΛΑΔΑ",(GR): SKAI HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4807.ts
+#EXTINF:-1 tvg-id="Skai" tvg-name="(GR): SKAI" tvg-logo="http://iptv.iptvsub.info:8880/icons/skai_tv.png" group-title="ΕΛΛΑΔΑ",(GR): SKAI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/199.ts
+#EXTINF:-1 tvg-id="Alpha" tvg-name="(GR): ALPHA HD" tvg-logo="http://iptv.iptvsub.info/icons/alpha_tv.png" group-title="ΕΛΛΑΔΑ",(GR): ALPHA HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4805.ts
+#EXTINF:-1 tvg-id="ALPHA" tvg-name="(GR): ALPHA" tvg-logo="http://iptv.iptvsub.info:8880/icons/alpha_tv.png" group-title="ΕΛΛΑΔΑ",(GR): ALPHA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/197.ts
+#EXTINF:-1 tvg-id="E TV" tvg-name="(GR): OPEN TV HD" tvg-logo="http://iptv.iptvsub.info/icons/open.png" group-title="ΕΛΛΑΔΑ",(GR): OPEN TV HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4809.ts
+#EXTINF:-1 tvg-id="Epsilon TV" tvg-name="(GR): OPEN TV" tvg-logo="http://iptv.iptvsub.info/icons/open.png" group-title="ΕΛΛΑΔΑ",(GR): OPEN TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/200.ts
+#EXTINF:-1 tvg-id="Macedonia TV" tvg-name="(GR): MAKEDONIA TV" tvg-logo="http://iptv.iptvsub.info:8880/icons/makedonia_tv.png" group-title="ΕΛΛΑΔΑ",(GR): MAKEDONIA TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/202.ts
+#EXTINF:-1 tvg-id="Macedonia TV" tvg-name="(GR): MAKEDONIA TV HD" tvg-logo="http://iptv.iptvsub.info/icons/makedonia_tv.png" group-title="ΕΛΛΑΔΑ",(GR): MAKEDONIA TV HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/426.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): NEO KANALI" tvg-logo="http://iptv.iptvsub.info/icons/new/e-new-tv.jpg" group-title="ΕΛΛΑΔΑ",(GR): NEO KANALI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/225.ts
+#EXTINF:-1 tvg-id="Kontra Channel" tvg-name="(GR): KONTRA" tvg-logo="http://iptv.iptvsub.info:8880/icons/kontra_channel.png" group-title="ΕΛΛΑΔΑ",(GR): KONTRA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/205.ts
+#EXTINF:-1 tvg-id="Action 24" tvg-name="(GR): ACTION 24" tvg-logo="http://iptv.iptvsub.info:8880/icons/action-24-tv-live-from-greece-1458501430.png" group-title="ΕΛΛΑΔΑ",(GR): ACTION 24
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/206.ts
+#EXTINF:-1 tvg-id="ALERT" tvg-name="(GR): ALERT CHANNEL" tvg-logo="http://iptv.iptvsub.info/icons/alerttv.png" group-title="ΕΛΛΑΔΑ",(GR): ALERT CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8318.ts
+#EXTINF:-1 tvg-id="Euronews Greek" tvg-name="(GR): EURONEWS" tvg-logo="http://iptv.iptvsub.info/icons/euronews3.png" group-title="ΕΛΛΑΔΑ",(GR): EURONEWS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/444.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): CNN USA" tvg-logo="http://iptv.iptvsub.info/icons/cnn.png" group-title="ΕΛΛΑΔΑ",(GR): CNN USA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/931.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): RUSSIA TODAY" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): RUSSIA TODAY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/10200.ts
+#EXTINF:-1 tvg-id="" tvg-name="-------------------------------ΑΘΛΗΤΙΚΑ--------------------------" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",-------------------------------ΑΘΛΗΤΙΚΑ--------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1972.ts
+#EXTINF:-1 tvg-id="OTESport1.gr" tvg-name="(GR): C. SPORT 1 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/ote_sport1.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 1 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/14074.ts
+#EXTINF:-1 tvg-id="OTESport2.gr" tvg-name="(GR): C. SPORT 2 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/ote_sport2.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 2 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/14075.ts
+#EXTINF:-1 tvg-id="OTESport3.gr" tvg-name="(GR): C. SPORT 3 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/ote_sport3.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 3 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/14076.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): C. SPORT 4 HD (No Trials)" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 4 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/123375.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): C. SPORT 5 HD (No Trials)" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 5 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/123374.ts
+#EXTINF:-1 tvg-id="COSMOTE SPORT 6HD" tvg-name="(GR): C. SPORT 6 HD" tvg-logo="http://iptv.iptvsub.info/icons/otesports6.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 6 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3144.ts
+#EXTINF:-1 tvg-id="COSMOTE SPORT 7HD" tvg-name="(GR): C. SPORT 7 HD" tvg-logo="http://iptv.iptvsub.info/icons/ote_sport_gr.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 7 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3145.ts
+#EXTINF:-1 tvg-id="COSMOTE SPORT 8HD" tvg-name="(GR): C. SPORT 8 HD" tvg-logo="http://iptv.iptvsub.info/icons/otesports8.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 8 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3146.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): C. SPORT 9 HD" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT 9 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15378.ts
+#EXTINF:-1 tvg-id="COSMOTE SPORT HIGHLIGHTS HD" tvg-name="(GR): C. SPORT HL HD" tvg-logo="http://iptv.iptvsub.info/icons/ote_sport_gr.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): C. SPORT HL HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2972.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FORMULA 1 (SKYSPORTS)" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): FORMULA 1 (SKYSPORTS)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8594.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOTO GP (Original Channel)" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): MOTO GP (Original Channel)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9223.ts
+#EXTINF:-1 tvg-id="Motorvision Channel HD" tvg-name="(GR): MOTORVISION HD" tvg-logo="http://iptv.iptvsub.info/icons/motorvision_tv_de.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): MOTORVISION HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3159.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="(GR): MOTORS TV(EN)" tvg-logo="http://iptv.iptvsub.info/icons/UK/MotorsTV.jpg" group-title="ΑΘΛΗΤΙΚΑ",(GR): MOTORS TV(EN)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3863.ts
+#EXTINF:-1 tvg-id="FOX Sports HD" tvg-name="(GR): FOX SPORTS HD" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): FOX SPORTS HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3172.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="(GR): EUROSPORT 1 GR" tvg-logo="http://iptv.iptvsub.info/icons/eurosport.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): EUROSPORT 1 GR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/501.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="(GR): EUROSPORT 2 EN" tvg-logo="http://iptv.iptvsub.info/icons/eurosport2.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): EUROSPORT 2 EN
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/502.ts
+#EXTINF:-1 tvg-id="NovaSports1.gr" tvg-name="(GR): NSPORTS 1 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/nova_gr_sports_1_hd.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): NSPORTS 1 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/14077.ts
+#EXTINF:-1 tvg-id="NovaSports2.gr" tvg-name="(GR): NSPORTS 2 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/nova_gr_sports_2_hd.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): NSPORTS 2 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/14078.ts
+#EXTINF:-1 tvg-id="NovaSports3.gr" tvg-name="(GR): NSPORTS 3 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/nova_gr_sports_3_hd.png" group-title="ΑΘΛΗΤΙΚΑ",(GR): NSPORTS 3 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/14079.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): NSPORTS 4 HD (No Trials)" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): NSPORTS 4 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/123377.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): NSPORTS 5 HD (No Trials)" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): NSPORTS 5 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/123376.ts
+#EXTINF:-1 tvg-id="Novasports24.gr" tvg-name="(GR): NSPORTS 24 HD" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): NSPORTS 24 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/116240.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): EXTREME SPORTS" tvg-logo="http://iptv.iptvsub.info/icons/tvicon.png" group-title="ΕΛΛΑΔΑ",(GR): EXTREME SPORTS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2636.ts
+#EXTINF:-1 tvg-id="EDGEsport HD" tvg-name="(GR): EDGE SPORTS" tvg-logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.broadbandtvnews.com%2Fwp-content%2Fuploads%2F2014%2F05%2Fedge_sport.jpg&imgrefurl=https%3A%2F%2Fwww.broadbandtvnews.com%2F2014%2F05%2F09%2Fm7-group-to-distribute-edgesport-in-europe%2F&docid=esFOhIzGYvLbcM&tbnid=8mGz1rIBePKKRM%3A&vet=10ahUKEwjG_9nZ3qnXAhWJa1AKHQVpDloQMwglKAAwAA..i&w=250&h=111&bih=716&biw=1600&q=EDGE%20SPORT%20CHANNEL%20LOGO&ved=0ahUKEwjG_9nZ3qnXAhWJa1AKHQVpDloQMwglKAAwAA&iact=mrc&uact=8" group-title="ΑΘΛΗΤΙΚΑ",(GR): EDGE SPORTS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3264.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FIGHT SPORT 1" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): FIGHT SPORT 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4820.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FIGHT SPORT 2" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): FIGHT SPORT 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4821.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FIGHTBOX" tvg-logo="" group-title="ΑΘΛΗΤΙΚΑ",(GR): FIGHTBOX
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4822.ts
+#EXTINF:-1 tvg-id="" tvg-name="----------------------------ΤΑΙΝΙΕΣ---------------------------" tvg-logo="" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",----------------------------ΤΑΙΝΙΕΣ---------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1973.ts
+#EXTINF:-1 tvg-id="novacinema1 HD" tvg-name="(GR): NCINEMA 1 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/nova_gr_cinema_1.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): NCINEMA 1 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/16415.ts
+#EXTINF:-1 tvg-id="novacinema2 HD" tvg-name="(GR): NCINEMA 2 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/nova_gr_cinema_2.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): NCINEMA 2 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/16416.ts
+#EXTINF:-1 tvg-id="novacinema3" tvg-name="(GR): NCINEMA 3 HD (No Trials)" tvg-logo="http://iptv.iptvsub.info/icons/nova_gr_cinema_3.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): NCINEMA 3 HD (No Trials)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/16417.ts
+#EXTINF:-1 tvg-id="NovaCinema4.gr" tvg-name="(GR): NCINEMA 4 HD  [Test]" tvg-logo="http://iptv.iptvsub.info/icons/nova_gr_cinema_4.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): NCINEMA 4 HD  [Test]
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/116423.ts
+#EXTINF:-1 tvg-id="COSMOTE CINEMA 1HD" tvg-name="(GR): COSMOTE CINEMA 1" tvg-logo="http://iptv.iptvsub.info/icons/ote1.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): COSMOTE CINEMA 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15536.ts
+#EXTINF:-1 tvg-id="COSMOTE CINEMA 2 HD" tvg-name="(GR): COSMOTE CINEMA 2" tvg-logo="http://iptv.iptvsub.info/icons/ote2.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): COSMOTE CINEMA 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3136.ts
+#EXTINF:-1 tvg-id="COSMOTE CINEMA 3" tvg-name="(GR): COSMOTE CINEMA 3" tvg-logo="http://iptv.iptvsub.info/icons/article.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): COSMOTE CINEMA 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3137.ts
+#EXTINF:-1 tvg-id="COSMOTE CINEMA 4HD" tvg-name="(GR): COSMOTE CINEMA 4" tvg-logo="http://iptv.iptvsub.info/icons/ote4.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): COSMOTE CINEMA 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3138.ts
+#EXTINF:-1 tvg-id="Village Cinema HD" tvg-name="(GR): VILLAGE CINEMA HD" tvg-logo="http://iptv.iptvsub.info/icons/village_cinemas_gr.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): VILLAGE CINEMA HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3150.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="(GR): FOX HD" tvg-logo="http://iptv.iptvsub.info/icons/fox%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FOX HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3148.ts
+#EXTINF:-1 tvg-id="FOX Life HD" tvg-name="(GR): FOX LIFE HD" tvg-logo="http://iptv.iptvsub.info/icons/fox%20life.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FOX LIFE HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3149.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 1" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/273.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 2" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/274.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 3" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/275.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 4" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3234.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 5" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3235.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 6" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3237.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 7" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3238.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  MOVIES GR SUBS 8" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  MOVIES GR SUBS 8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3441.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MOVIES GR SUBS 9" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): MOVIES GR SUBS 9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3765.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FILMBOX 5" tvg-logo="http://iptv.iptvsub.info/icons/UK/FilmBox_pl.jpg" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FILMBOX 5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9693.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FILMBOX 6" tvg-logo="http://iptv.iptvsub.info/icons/UK/FilmBox_pl.jpg" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FILMBOX 6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9694.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FILMBOX 7" tvg-logo="http://iptv.iptvsub.info/icons/UK/FilmBox_pl.jpg" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FILMBOX 7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9695.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FILMBOX 8" tvg-logo="http://iptv.iptvsub.info/icons/UK/FilmBox_pl.jpg" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FILMBOX 8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9696.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FILMBOX 9" tvg-logo="http://iptv.iptvsub.info/icons/UK/FilmBox_pl.jpg" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FILMBOX 9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9697.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FILMBOX 10 NCIS" tvg-logo="http://iptv.iptvsub.info/icons/UK/FilmBox_pl.jpg" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): FILMBOX 10 NCIS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9698.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 1 HD  O ANT-MAN KAI H SFHKA" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 1 HD  O ANT-MAN KAI H SFHKA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11430.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 2 HD  MAMA MIA-HERE WE GO AGAIN" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 2 HD  MAMA MIA-HERE WE GO AGAIN
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11431.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 3 HD  H SYMMORIA TON 8" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 3 HD  H SYMMORIA TON 8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11432.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 4 HD  H ISTORIA TON PROTON XRISTOUGENNON" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 4 HD  H ISTORIA TON PROTON XRISTOUGENNON
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11433.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): PREMIERE 5 HD  OURANOJYSTHS" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): PREMIERE 5 HD  OURANOJYSTHS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11434.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 6 HD  24 ORES PROTHESMIA" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 6 HD  24 ORES PROTHESMIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11435.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 7 HD  H LHSTEIA TOU AIONA" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 7 HD  H LHSTEIA TOU AIONA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11436.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 8 HD  TO VASILEIO EPESE" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 8 HD  TO VASILEIO EPESE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11437.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 9 HD  O KYRIARXOS TOU VYTHOU" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 9 HD  O KYRIARXOS TOU VYTHOU
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11438.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR):  PREMIERE 10 HD  H MAXH TON EKTELESTON" tvg-logo="https://www.google.gr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi28cKDzdrcAhXDYVAKHV61AGcQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ewsat.com%2Fsouth-africa-channels-frequency-2%2F&psig=AOvVaw0cdVFtVQK5UdIxoYwAl4_i&ust=1533719516756188" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR):  PREMIERE 10 HD  H MAXH TON EKTELESTON
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11439.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ARENA" tvg-logo="https://i.imgur.com/hpepWSg.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): ARENA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8593.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GROOVY" tvg-logo="https://i.imgur.com/0iklNh2.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GROOVY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/7991.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): CINEFIL GR" tvg-logo="http://i.imgur.com/bh1iOFz.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): CINEFIL GR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4291.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 1" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3223.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 2" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3224.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 3" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8320.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 4" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8321.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 5" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8322.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 6" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8323.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 7" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΕΛΛΑΔΑ",(GR): GR MOVIES 7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2639.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 8" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΕΛΛΑΔΑ",(GR): GR MOVIES 8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 9" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΕΛΛΑΔΑ",(GR): GR MOVIES 9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2694.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 10" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΕΛΛΑΔΑ",(GR): GR MOVIES 10
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2643.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 11" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 11
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3225.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 12" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 12
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3226.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR MOVIES 13" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR MOVIES 13
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3227.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR OLD MOVIES 1" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR OLD MOVIES 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3228.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR OLD MOVIES 2" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR OLD MOVIES 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3229.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR OLD MOVIES 3" tvg-logo="http://iptv.iptvsub.info/icons/ellin.kinimatografos.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR OLD MOVIES 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3230.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): CINEMA GR 1" tvg-logo="" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): CINEMA GR 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2765.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): TEST 7" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): TEST 7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11399.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR SERIES 1" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR SERIES 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3231.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GR SERIES 2" tvg-logo="http://iptv.iptvsub.info/icons/movies%20hd.png" group-title="ΚΙΝΗΜΑΤΟΓΡΑΦΟΣ",(GR): GR SERIES 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3232.ts
+#EXTINF:-1 tvg-id="" tvg-name="------------------------------NTOKYMANTEΡ----------------------------" tvg-logo="" group-title="ΕΛΛΑΔΑ",------------------------------NTOKYMANTEΡ----------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1971.ts
+#EXTINF:-1 tvg-id="animalplanet.gr" tvg-name="(GR): ANIMAL PLANET HD" tvg-logo="http://iptv.iptvsub.info/icons/animal_planet_us_hd.png" group-title="ΕΛΛΑΔΑ",(GR): ANIMAL PLANET HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3160.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): CBS REALITY" tvg-logo="http://iptv.iptvsub.info/icons/cbs%20reality.png" group-title="ΕΛΛΑΔΑ",(GR): CBS REALITY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3171.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="(GR): DISCOVERY CHANNEL HD" tvg-logo="http://iptv.iptvsub.info/icons/discovery_global_us.png" group-title="ΕΛΛΑΔΑ",(GR): DISCOVERY CHANNEL HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3155.ts
+#EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="(GR): DISCOVERY HD SHOWCASE" tvg-logo="http://iptv.iptvsub.info/icons/discovery_hd_showcase_us.png" group-title="ΕΛΛΑΔΑ",(GR): DISCOVERY HD SHOWCASE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3166.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="(GR): DISCOVERY ID X" tvg-logo="http://iptv.iptvsub.info/icons/discovery%20idx.png" group-title="ΕΛΛΑΔΑ",(GR): DISCOVERY ID X
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3039.ts
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="(GR): DISCOVERY SCIENCE HD" tvg-logo="http://iptv.iptvsub.info/icons/discovery_science_global.png" group-title="ΕΛΛΑΔΑ",(GR): DISCOVERY SCIENCE HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3165.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): DTX HD" tvg-logo="http://iptv.iptvsub.info/icons/UK/DiscoveryTurboExtra_pl.jpg" group-title="ΕΛΛΑΔΑ",(GR): DTX HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3162.ts
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="(GR): FASHION TV HD" tvg-logo="http://iptv.iptvsub.info/icons/fashion%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): FASHION TV HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/266.ts
+#EXTINF:-1 tvg-id="History" tvg-name="(GR): HISTORY HD" tvg-logo="http://iptv.iptvsub.info/icons/history.png" group-title="ΕΛΛΑΔΑ",(GR): HISTORY HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/236.ts
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="(GR): NATIONAL GEOGRAFIC HD" tvg-logo="http://iptv.iptvsub.info/icons/nat_geo_us.png" group-title="ΕΛΛΑΔΑ",(GR): NATIONAL GEOGRAFIC HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3156.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="(GR): NAT GEO WILD" tvg-logo="http://iptv.iptvsub.info:8880/icons/nat%20geo%20wild.png" group-title="ΕΛΛΑΔΑ",(GR): NAT GEO WILD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/235.ts
+#EXTINF:-1 tvg-id="SundanceTV" tvg-name="(GR): SUNDANCE CHANNEL HD" tvg-logo="http://iptv.iptvsub.info:8880/icons/sundance_tv_us.png" group-title="ΕΛΛΑΔΑ",(GR): SUNDANCE CHANNEL HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/245.ts
+#EXTINF:-1 tvg-id="Travel Channel HD" tvg-name="(GR): TRAVEL CHANNEL HD" tvg-logo="http://iptv.iptvsub.info/icons/travel_channel_europe.png" group-title="ΕΛΛΑΔΑ",(GR): TRAVEL CHANNEL HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3164.ts
+#EXTINF:-1 tvg-id="COSMOTE HISTORY" tvg-name="(GR): COSMOTE HISTORY" tvg-logo="http://iptv.iptvsub.info/icons/ote%20history2.png" group-title="ΕΛΛΑΔΑ",(GR): COSMOTE HISTORY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3147.ts
+#EXTINF:-1 tvg-id="Viasat History" tvg-name="(GR): VIASAT HISTORY" tvg-logo="http://iptv.iptvsub.info/icons/viasat_history.png" group-title="ΕΛΛΑΔΑ",(GR): VIASAT HISTORY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3161.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): VIASAT EXPLORE" tvg-logo="http://iptv.iptvsub.info/icons/viasat_explore.png" group-title="ΕΛΛΑΔΑ",(GR): VIASAT EXPLORE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3174.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): VIASAT EXPLORE B" tvg-logo="http://iptv.iptvsub.info/icons/viasat_explore.png" group-title="ΕΛΛΑΔΑ",(GR): VIASAT EXPLORE B
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2954.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): VIASAT NATURE" tvg-logo="http://iptv.iptvsub.info/icons/viasat_nature.png" group-title="ΕΛΛΑΔΑ",(GR): VIASAT NATURE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3175.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): VIASAT NATURE B" tvg-logo="http://iptv.iptvsub.info/icons/viasat_nature.png" group-title="ΕΛΛΑΔΑ",(GR): VIASAT NATURE B
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2953.ts
+#EXTINF:-1 tvg-id="CrimeInvestigation.gr" tvg-name="(GR): CRIME AND INVESTIGATION" tvg-logo="http://iptv.iptvsub.info/icons/UK/CrimeInvesti.jpg" group-title="ΕΛΛΑΔΑ",(GR): CRIME AND INVESTIGATION
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3176.ts
+#EXTINF:-1 tvg-id="OutdoorChannel.gr" tvg-name="(GR): OUTDOOR CHANNEL" tvg-logo="http://iptv.iptvsub.info/icons/new/outdoor-channel.jpg" group-title="ΕΛΛΑΔΑ",(GR): OUTDOOR CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3177.ts
+#EXTINF:-1 tvg-id="Fineliving.gr" tvg-name="(GR): FINE LIVING" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): FINE LIVING
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3178.ts
+#EXTINF:-1 tvg-id="Nautical Channel" tvg-name="(GR): NAUTICAL CHANNEL" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): NAUTICAL CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3179.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): BBC EARTH" tvg-logo="http://iptv.iptvsub.info/icons/UK/BBCEarth_eu.jpg" group-title="ΕΛΛΑΔΑ",(GR): BBC EARTH
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3170.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="(GR): FOOD NETWORK" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): FOOD NETWORK
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3173.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="(GR): GOOD FOOD UK" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): GOOD FOOD UK
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4824.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FOOD NETWORK EX-YUG" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): FOOD NETWORK EX-YUG
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/9241.ts
+#EXTINF:-1 tvg-id="Body in Balance" tvg-name="(GR): BODY IN BALANCE" tvg-logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.bodyinbalance.tv%2Fwp-content%2Fuploads%2F2015%2F07%2FBiB_logo_636x144.png&imgrefurl=http%3A%2F%2Fwww.bodyinbalance.tv%2F&docid=uDE_GhU59rplqM&tbnid=Oqug6wxGeGfvYM%3A&vet=10ahUKEwipifTE3anXAhWCYlAKHVdoAbAQMwglKAAwAA..i&w=636&h=144&bih=716&biw=1600&q=BODY%20AND%20BALANCE%20CHANNEL%20LOGO&ved=0ahUKEwipifTE3anXAhWCYlAKHVdoAbAQMwglKAAwAA&iact=mrc&uact=8" group-title="ΕΛΛΑΔΑ",(GR): BODY IN BALANCE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3261.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): LUXE TV" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbroadlink.com.np%2Fuploads%2Fluxe.png%3F1486212185638&imgrefurl=https%3A%2F%2Fbroadlink.com.np%2Fservice%2FbroadTV&docid=wgMkGmvYOqq2aM&tbnid=C5Do3BDV7ukccM%3A&vet=10ahUKEwihzKbS3KnXAhXjL8AKHfr-D1EQMwgsKAcwBw..i&w=240&h=120&bih=765&biw=1600&q=LUXE%20TV%20LOGO&ved=0ahUKEwihzKbS3KnXAhXjL8AKHfr-D1EQMwgsKAcwBw&iact=mrc&uact=8" group-title="ΕΛΛΑΔΑ",(GR): LUXE TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3260.ts
+#EXTINF:-1 tvg-id="E" tvg-name="(GR): E! ENTERTAINMENT HD" tvg-logo="http://iptv.iptvsub.info/icons/e-entertainment.png" group-title="ΕΛΛΑΔΑ",(GR): E! ENTERTAINMENT HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3151.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="(GR): TLC" tvg-logo="http://iptv.iptvsub.info/icons/tlc_us%20%281%29.png" group-title="ΕΛΛΑΔΑ",(GR): TLC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3158.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="(GR): TLC B" tvg-logo="http://iptv.iptvsub.info/icons/tlc_us%20%281%29.png" group-title="ΕΛΛΑΔΑ",(GR): TLC B
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1286.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): DOCUMENTARY 6" tvg-logo="http://iptv.iptvsub.info/icons/documchannel.png" group-title="ΕΛΛΑΔΑ",(GR): DOCUMENTARY 6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2768.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): PLANET EARTH" tvg-logo="http://iptv.iptvsub.info/icons/documchannel.png" group-title="ΕΛΛΑΔΑ",(GR): PLANET EARTH
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2936.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ECO NET TV" tvg-logo="http://i.imgur.com/jOgysNe.png" group-title="ΕΛΛΑΔΑ",(GR): ECO NET TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2875.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): GREECE" tvg-logo="http://iptv.iptvsub.info/icons/travel%20greece.png" group-title="ΕΛΛΑΔΑ",(GR): GREECE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ANEKSIGITA" tvg-logo="https://78.media.tumblr.com/avatar_87f23d648f63_128.png" group-title="ΕΛΛΑΔΑ",(GR): ANEKSIGITA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/7987.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): HUNTER TV" tvg-logo="http://iptv.iptvsub.info/icons/hunter.png" group-title="ΕΛΛΑΔΑ",(GR): HUNTER TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/290.ts
+#EXTINF:-1 tvg-id="chassepeche" tvg-name="(GR): CASA & PESCA (PT)" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): CASA & PESCA (PT)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3183.ts
+#EXTINF:-1 tvg-id="chassepeche" tvg-name="(GR): CHASSE & PECHE (FR)" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): CHASSE & PECHE (FR)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3184.ts
+#EXTINF:-1 tvg-id="" tvg-name="--------------------------ΕΠΑΡΧΙΑΚΑ ΚΑΝΑΛΙΑ--------------------------" tvg-logo="" group-title="ΕΛΛΑΔΑ",--------------------------ΕΠΑΡΧΙΑΚΑ ΚΑΝΑΛΙΑ--------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1968.ts
+#EXTINF:-1 tvg-id="Channel 9" tvg-name="(GR): KANALI 9" tvg-logo="http://iptv.iptvsub.info/icons/kanali%209.png" group-title="ΕΛΛΑΔΑ",(GR): KANALI 9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/499.ts
+#EXTINF:-1 tvg-id="TV100" tvg-name="(GR): TV 100" tvg-logo="http://iptv.iptvsub.info:8880/icons/Tv100_2.png" group-title="ΕΛΛΑΔΑ",(GR): TV 100
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/183.ts
+#EXTINF:-1 tvg-id="4Î•" tvg-name="(GR): 4E" tvg-logo="http://iptv.iptvsub.info/icons/4e-LIVE-TV%20%281%29.png" group-title="ΕΛΛΑΔΑ",(GR): 4E
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/446.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): LYCHNOS TV" tvg-logo="http://iptv.iptvsub.info/icons/lychnos%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): LYCHNOS TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/257.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ATTICA TV" tvg-logo="http://iptv.iptvsub.info:8880/icons/attica.png" group-title="ΕΛΛΑΔΑ",(GR): ATTICA TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/210.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): HIGH TV" tvg-logo="http://iptv.iptvsub.info:8880/icons/HighTV.png" group-title="ΕΛΛΑΔΑ",(GR): HIGH TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/208.ts
+#EXTINF:-1 tvg-id="SBC" tvg-name="(GR): SBC CHANNEL" tvg-logo="http://iptv.iptvsub.info:8880/icons/ab_channel_gr.png" group-title="ΕΛΛΑΔΑ",(GR): SBC CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/211.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): NET TV TORONTO" tvg-logo="http://iptv.iptvsub.info/icons/net%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): NET TV TORONTO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/264.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MONTREAL TV" tvg-logo="http://iptv.iptvsub.info/icons/montreal%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): MONTREAL TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ART TV" tvg-logo="http://iptv.iptvsub.info:8880/icons/art_tv_gr.png" group-title="ΕΛΛΑΔΑ",(GR): ART TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/204.ts
+#EXTINF:-1 tvg-id="Blue Sky" tvg-name="(GR): BLUE SKY" tvg-logo="http://iptv.iptvsub.info:8880/icons/blue_sky_tv_gr.png" group-title="ΕΛΛΑΔΑ",(GR): BLUE SKY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/209.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ZOUGLA" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): ZOUGLA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6038.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): AXELOOS TV" tvg-logo="http://iptv.iptvsub.info/icons/Aheloos%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): AXELOOS TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/254.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): STAR KENTRIKIS ELLADAS" tvg-logo="https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwit5-SHjv7dAhVOy6QKHbmcAbYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC5voIS-R0gVfJ4JUcV0ipEQ&psig=AOvVaw3iBRHtRJyg-C0bVk8syoHQ&ust=1539337732788917" group-title="ΕΛΛΑΔΑ",(GR): STAR KENTRIKIS ELLADAS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/246.ts
+#EXTINF:-1 tvg-id="Best TV" tvg-name="(GR): BEST TV" tvg-logo="http://iptv.iptvsub.info/icons/best_tv_gr.png" group-title="ΕΛΛΑΔΑ",(GR): BEST TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/255.ts
+#EXTINF:-1 tvg-id="Δέλτα TV" tvg-name="(GR): DELTA TV" tvg-logo="http://iptv.iptvsub.info/icons/delta.png" group-title="ΕΛΛΑΔΑ",(GR): DELTA TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1258.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): DIKTYO TV" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): DIKTYO TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6403.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): HPEIROS TV" tvg-logo="http://iptv.iptvsub.info/icons/epirus_tv_gr.png" group-title="ΕΛΛΑΔΑ",(GR): HPEIROS TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/500.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ASTRA TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52996478/ASTRA_TV.png" group-title="ΕΛΛΑΔΑ",(GR): ASTRA TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2764.ts
+#EXTINF:-1 tvg-id="TRT" tvg-name="(GR): TRT VOLOS" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): TRT VOLOS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4159.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): IONIAN CHANNEL" tvg-logo="http://iptv.iptvsub.info/icons/ionian.png" group-title="ΕΛΛΑΔΑ",(GR): IONIAN CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/252.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): KRHTH TV" tvg-logo="http://iptv.iptvsub.info:8880/icons/krhth%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): KRHTH TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/213.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): NEA TV XANIA" tvg-logo="http://iptv.iptvsub.info/icons/neatv.png" group-title="ΕΛΛΑΔΑ",(GR): NEA TV XANIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/212.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): CRETA TV" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46893829/CRETA.png" group-title="ΕΛΛΑΔΑ",(GR): CRETA TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2910.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): RODOPI TV" tvg-logo="" group-title="ΕΛΛΑΔΑ",(GR): RODOPI TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1004.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): SAMIAKI TV" tvg-logo="http://iptv.iptvsub.info/icons/samiaki.png" group-title="ΕΛΛΑΔΑ",(GR): SAMIAKI TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/259.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): START TV" tvg-logo="http://iptv.iptvsub.info/icons/start.png" group-title="ΕΛΛΑΔΑ",(GR): START TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): SYROS TV1" tvg-logo="http://iptv.iptvsub.info/icons/syros%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): SYROS TV1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): THRAKI NET" tvg-logo="http://iptv.iptvsub.info/icons/thraki%20net.png" group-title="ΕΛΛΑΔΑ",(GR): THRAKI NET
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/253.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): TV FILLOPOLI" tvg-logo="http://iptv.iptvsub.info/icons/tvicon.png" group-title="ΕΛΛΑΔΑ",(GR): TV FILLOPOLI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/262.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MESSINIA TV" tvg-logo="http://iptv.iptvsub.info/icons/messinia%20tv.png" group-title="ΕΛΛΑΔΑ",(GR): MESSINIA TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/272.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): RELOAD BIZZ" tvg-logo="http://iptv.iptvsub.info/icons/reload%20bizz.png" group-title="ΕΛΛΑΔΑ",(GR): RELOAD BIZZ
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1259.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): RELOAD PLAY" tvg-logo="http://i.imgur.com/DPBjWOJ.png" group-title="ΕΛΛΑΔΑ",(GR): RELOAD PLAY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4294.ts
+#EXTINF:-1 tvg-id="" tvg-name="--------------------------ΚΥΠΡΙΑΚΑ ΚΑΝΑΛΙΑ-----------------------------" tvg-logo="" group-title="ΕΛΛΑΔΑ",--------------------------ΚΥΠΡΙΑΚΑ ΚΑΝΑΛΙΑ-----------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1969.ts
+#EXTINF:-1 tvg-id="RIK HD" tvg-name="(GR): RIK SAT" tvg-logo="http://iptv.iptvsub.info:8880/icons/RIK-Sat.png" group-title="ΕΛΛΑΔΑ",(GR): RIK SAT
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/215.ts
+#EXTINF:-1 tvg-id="RIK HD" tvg-name="(GR): RIK 1" tvg-logo="http://iptv.iptvsub.info:8880/icons/rik.png" group-title="ΕΛΛΑΔΑ",(GR): RIK 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/216.ts
+#EXTINF:-1 tvg-id="Rik2" tvg-name="(GR): RIK 2" tvg-logo="http://iptv.iptvsub.info:8880/icons/rik2.png" group-title="ΕΛΛΑΔΑ",(GR): RIK 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/217.ts
+#EXTINF:-1 tvg-id="Sigma" tvg-name="(GR): SiGMA CYPRUS" tvg-logo="http://iptv.iptvsub.info:8880/icons/sigma-logo-final.png" group-title="ΕΛΛΑΔΑ",(GR): SiGMA CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/222.ts
+#EXTINF:-1 tvg-id="Alpha Cyprus" tvg-name="(GR): ALPHA CYPRUS" tvg-logo="http://iptv.iptvsub.info/icons/alphacy.png" group-title="ΕΛΛΑΔΑ",(GR): ALPHA CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): ANT1 CYPRUS" tvg-logo="http://iptv.iptvsub.info:8880/icons/ANT1BLUE_cyprus%20%20new.png" group-title="ΕΛΛΑΔΑ",(GR): ANT1 CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/218.ts
+#EXTINF:-1 tvg-id="Capital" tvg-name="(GR): CAPITAL CYPRUS" tvg-logo="http://iptv.iptvsub.info:8880/icons/capital.png" group-title="ΕΛΛΑΔΑ",(GR): CAPITAL CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/220.ts
+#EXTINF:-1 tvg-id="TVOne.cy" tvg-name="(GR): OMEGA CYPRUS" tvg-logo="http://iptv.iptvsub.info/icons/new/omega.png" group-title="ΕΛΛΑΔΑ",(GR): OMEGA CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/219.ts
+#EXTINF:-1 tvg-id="Plus TV" tvg-name="(GR): PLUS CYPRUS" tvg-logo="http://iptv.iptvsub.info:8880/icons/CyplusLogo.png" group-title="ΕΛΛΑΔΑ",(GR): PLUS CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/221.ts
+#EXTINF:-1 tvg-id="Extra TV" tvg-name="(GR): EXTRA CYPRUS" tvg-logo="http://iptv.iptvsub.info/icons/EXTRA-tv-cyprus.png" group-title="ΕΛΛΑΔΑ",(GR): EXTRA CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/292.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FAROS ON AIR" tvg-logo="http://i.imgur.com/jdMlstR.jpg" group-title="ΕΛΛΑΔΑ",(GR): FAROS ON AIR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3221.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): TV MALL CY" tvg-logo="http://i.imgur.com/3Juhubo.png" group-title="ΕΛΛΑΔΑ",(GR): TV MALL CY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4293.ts
+#EXTINF:-1 tvg-id="" tvg-name="-----------------------ΜΟΥΣΙΚΗ-----------------------------" tvg-logo="" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",-----------------------ΜΟΥΣΙΚΗ-----------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1974.ts
+#EXTINF:-1 tvg-id="MADGreekz.gr" tvg-name="(GR): MAD GREEKZ" tvg-logo="http://iptv.iptvsub.info/icons/MAD_Greekz.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MAD GREEKZ
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/10973.ts
+#EXTINF:-1 tvg-id="MAD" tvg-name="(GR): MAD TV" tvg-logo="http://iptv.iptvsub.info:8880/icons/mad_gr_tv.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MAD TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/224.ts
+#EXTINF:-1 tvg-id="MAD" tvg-name="(GR): MAD CYPRUS" tvg-logo="http://iptv.iptvsub.info/icons/madcy-jpg-By84ZzYkb.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MAD CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2546.ts
+#EXTINF:-1 tvg-id="MAD Hits" tvg-name="(GR): MAD HITS" tvg-logo="" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MAD HITS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3163.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): RISE" tvg-logo="http://iptv.iptvsub.info/icons/RiseTV.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): RISE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/8319.ts
+#EXTINF:-1 tvg-id="Stingray iConcerts" tvg-name="(GR): iCONCERTS" tvg-logo="http://iptv.iptvsub.info/icons/i%20concerts.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): iCONCERTS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/936.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): LIKE TV" tvg-logo="http://iptv.iptvsub.info/icons/like_radio.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): LIKE TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): RELOAD RADIO TV" tvg-logo="http://iptv.iptvsub.info/icons/reload%20radio.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): RELOAD RADIO TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1261.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): CANNALI MUSIC" tvg-logo="http://iptv.iptvsub.info:8880/icons/cannali.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): CANNALI MUSIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/248.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC VIDEO CLIP 1" tvg-logo="http://iptv.iptvsub.info:8880/icons/video%20clip.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC VIDEO CLIP 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/249.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC VIDEO CLIP 2" tvg-logo="http://iptv.iptvsub.info/icons/video%20clip.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC VIDEO CLIP 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC  VIDEO CLIP 3" tvg-logo="http://iptv.iptvsub.info/icons/video%20clip.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC  VIDEO CLIP 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/251.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC VIDEO CLIP 4" tvg-logo="http://iptv.iptvsub.info/icons/video%20clip.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC VIDEO CLIP 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2767.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC VIDEO CLIP 5" tvg-logo="http://iptv.iptvsub.info/icons/video%20clip.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC VIDEO CLIP 5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6039.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC VIDEO CLIP 6" tvg-logo="http://iptv.iptvsub.info/icons/video%20clip.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC VIDEO CLIP 6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6040.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC X CHANNEL" tvg-logo="http://iptv.iptvsub.info/icons/video%20clip.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC X CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/12632.ts
+#EXTINF:-1 tvg-id="MTV Dance" tvg-name="(GR): MTV DANCE" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/MTVDance_at.jpg" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MTV DANCE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11085.ts
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="(GR): MTV HITS" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/MTVHits_at.jpg" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MTV HITS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11086.ts
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-name="(GR): MTV ROCKS" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/MTVRocks_at.jpg" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MTV ROCKS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11087.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): MUSIC TOP" tvg-logo="https://i.imgur.com/hWMFLTh.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): MUSIC TOP
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11089.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): XITE TV" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/1a62e626926751.55756a4b190d7.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): XITE TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11088.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): FOREING HITS" tvg-logo="http://iptv.iptvsub.info/icons/video%20clip.png" group-title="ΕΛΛΑΔΑ",(GR): FOREING HITS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2637.ts
+#EXTINF:-1 tvg-id="" tvg-name="----------------------------ΠΑΙΔΙΚΑ--------------------------" tvg-logo="" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",----------------------------ΠΑΙΔΙΚΑ--------------------------
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1970.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="(GR): BABY TV" tvg-logo="http://iptv.iptvsub.info/icons/babytv.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): BABY TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3157.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="(GR): BABY TV [B]" tvg-logo="http://iptv.iptvsub.info/icons/babytv.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): BABY TV [B]
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/270.ts
+#EXTINF:-1 tvg-id="Disney" tvg-name="(GR): DISNEY CHANNEL" tvg-logo="http://iptv.iptvsub.info/icons/disney_channel_global.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): DISNEY CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3152.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="(GR): DISNEY XD" tvg-logo="http://iptv.iptvsub.info/icons/disney_xd_us.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): DISNEY XD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3154.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="(GR): DISNEY JUNIOR" tvg-logo="http://iptv.iptvsub.info/icons/disney_junior_us.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): DISNEY JUNIOR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3153.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="(GR): BOOMERANG GR" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/Boomerang_eu.jpg" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): BOOMERANG GR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3766.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): LIFE HD" tvg-logo="http://i.imgur.com/wcodbFA.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): LIFE HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2763.ts
+#EXTINF:-1 tvg-id="Smile TV" tvg-name="(GR): SMILE" tvg-logo="http://iptv.iptvsub.info/icons/Smile.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): SMILE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/271.ts
+#EXTINF:-1 tvg-id="Smile TV" tvg-name="(GR):SMILE CYPRUS" tvg-logo="http://iptv.iptvsub.info/icons/smile_tv_gr.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR):SMILE CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1975.ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="(GR): NICKELODEON" tvg-logo="http://iptv.iptvsub.info/icons/nickelodeon_us_hd.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): NICKELODEON
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/267.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 7" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2877.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 8" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2878.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 9" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2955.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 10" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 10
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3756.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 14 SMURFS" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΕΛΛΑΔΑ",(GR): KIDSBOX 14 SMURFS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2940.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 17" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 17
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3239.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 18" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 18
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3240.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 19" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 19
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3241.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 20" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 20
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3242.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 21" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 21
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3243.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 22" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΕΛΛΑΔΑ",(GR): KIDSBOX 22
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3442.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 24 MR. BEAN" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΕΛΛΑΔΑ",(GR): KIDSBOX 24 MR. BEAN
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3749.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 25" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 25
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11396.ts
+#EXTINF:-1 tvg-id="Kids.Channel" tvg-name="(GR): KIDSBOX 26" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): KIDSBOX 26
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11397.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): 3D KIDS" tvg-logo="" group-title="ΜΟΥΣΙΚΑ - ΠΑΙΔΙΚΑ",(GR): 3D KIDS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6711.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR): EKPAIDEUTIKO KANALI 1" tvg-logo="http://iptv.iptvsub.info/icons/kids.png" group-title="ΕΛΛΑΔΑ",(GR): EKPAIDEUTIKO KANALI 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2762.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PROTO PROGRAMMA ERA1" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/ert-proto.png" group-title="",GR RAD: PROTO PROGRAMMA ERA1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/424.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DEUTERO PROGRAMMA" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/ert-deftero.png" group-title="",GR RAD: DEUTERO PROGRAMMA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2609.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DEYTERO PROGRAMMA ERA 2" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/ert-deftero.png" group-title="",GR RAD: DEYTERO PROGRAMMA ERA 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/423.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: TRITO PROGRAMMA ERA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/ert-trito.png" group-title="",GR RAD: TRITO PROGRAMMA ERA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2662.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SKAI FM 100.3" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/skai.png" group-title="",GR RAD: SKAI FM 100.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/421.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PARAPOLITIKA FM" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/parapolitikafm.png" group-title="",GR RAD: PARAPOLITIKA FM
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2810.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: THEMA RADIO 104,6" tvg-logo="view-source:http://www.themaradio.gr/assets/thema-radio.png" group-title="",GR RAD: THEMA RADIO 104,6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3577.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: STO KOKKINO 105.5" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/kokkino.png" group-title="",GR RAD: STO KOKKINO 105.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/420.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ALPHA 98.90" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/alpha989.png" group-title="",GR RAD: ALPHA 98.90
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2611.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: REAL FM 97,80" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/realfm.png" group-title="",GR RAD: REAL FM 97,80
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2610.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: BHMA FM 99.5" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/vimafm995.png" group-title="",GR RAD: BHMA FM 99.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/422.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ATHINA 98,4" tvg-logo="view-source:http://resources.live24.gr/resources/images/stations/26b249fc-9d6e-4300-85d2-904348c77770.png" group-title="",GR RAD: ATHINA 98,4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3580.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: 24/7 88.6" tvg-logo="http://live24.gr/resrc/styles/custom-popups/247radio/header.png" group-title="",GR RAD: 24/7 88.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4810.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ALPHA 96.5 THES/NIKI" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/alpha965.png" group-title="",GR RAD: ALPHA 96.5 THES/NIKI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/391.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO THESSALONIKI 94.5" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/radiothess.png" group-title="",GR RAD: RADIO THESSALONIKI 94.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: REAL FM 107.1 THES/NIKI" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/realfmthess.png" group-title="",GR RAD: REAL FM 107.1 THES/NIKI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/393.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: FOKUS 103.6" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/focusthess.png" group-title="",GR RAD: FOKUS 103.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/396.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: KOKKINO THESSAL" tvg-logo="http://resources.live24.gr/resources/images/stations/436a97f8-bc9d-4236-8e0b-6f0815b85bd7.jpg" group-title="",GR RAD: KOKKINO THESSAL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/371.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ERA SPORT" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/ert-erasport.png" group-title="",GR RAD: ERA SPORT
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2663.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SPORT24 103.3" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/sport24radio.png" group-title="",GR RAD: SPORT24 103.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/418.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: OTE SPORT FM 94.6" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/sportfm946.png" group-title="",GR RAD: OTE SPORT FM 94.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/419.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: METROPOLIS 95,5" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/metropolis.png" group-title="",GR RAD: METROPOLIS 95,5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2948.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LIBERO FM 107.4" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/liberofm.png" group-title="",GR RAD: LIBERO FM 107.4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/388.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ARENA FM 89,4 THESSALONIKI" tvg-logo="http://www.greekradios.gr/photos/logo_arenafm_new_max.jpg" group-title="",GR RAD: ARENA FM 89,4 THESSALONIKI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3560.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR.RAD): RADIO METANASTIS" tvg-logo="" group-title="",(GR.RAD): RADIO METANASTIS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6404.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: XANIA SPORT FM 90.6" tvg-logo="http://resources.live24.gr/resources/images/stations/6ca48826-5b45-4e4b-8472-5f72adc09e49.jpg" group-title="",GR RAD: XANIA SPORT FM 90.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/361.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LAIKO" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/arionlaikos.png" group-title="",GR RAD: LAIKO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2961.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ENTEXNO" tvg-logo="http://cafe-entexnon.gr/wp-content/uploads/2016/10/ms-icon-70x70.png" group-title="",GR RAD: ENTEXNO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2967.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO ENTEXNO" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/internet-radios/entexnosfm.png" group-title="",GR RAD: RADIO ENTEXNO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1269.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: GOLD MUSIC" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/gold_music_radio.JPG" group-title="",GR RAD: GOLD MUSIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118592.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: KIDSPOWER" tvg-logo="" group-title="",GR RAD: KIDSPOWER
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6037.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ARION KIDS" tvg-logo="http://iptv.iptvsub.info/icons/kids2.png" group-title="",GR RAD: ARION KIDS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2964.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ARION RADIO" tvg-logo="http://resources.live24.gr/resources/images/stations/69e0aeb4-7b39-438e-84b9-2f18bbad67c2.jpg" group-title="",GR RAD: ARION RADIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2963.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ARION STIGMES" tvg-logo="http://resources.live24.gr/resources/images/stations/feaa04bf-8d0d-4d6a-90eb-86957072d279.png" group-title="",GR RAD: ARION STIGMES
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2962.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DROMOS FM 89.8" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/dromosfm.png" group-title="",GR RAD: DROMOS FM 89.8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/417.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LAMPSI FM 88.6 VOLOS" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/lampsifm.png" group-title="",GR RAD: LAMPSI FM 88.6 VOLOS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/416.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ELLINIKOS 93.2" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/ellinikos932.png" group-title="",GR RAD: ELLINIKOS 93.2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/415.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RYTHMOS FM 94.9" tvg-logo="https://www.rythmosfm.gr/images/rythmosogimg.jpg" group-title="",GR RAD: RYTHMOS FM 94.9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/414.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: EN LEYKO 87.7" tvg-logo="http://resources.live24.gr/resources/images/stations/e4abbfeb-d333-48ce-911e-753154aa7bd8.jpg" group-title="",GR RAD: EN LEYKO 87.7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/413.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: HOT FM 104.6" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/hotfmathens.png" group-title="",GR RAD: HOT FM 104.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/412.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ATHENS DEEJAY 952" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/deejay.png" group-title="",GR RAD: ATHENS DEEJAY 952
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/411.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LOVE RADIO 97.5" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/loveradio.png" group-title="",GR RAD: LOVE RADIO 97.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/410.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MELODIA FM 99.2" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/melodia.png" group-title="",GR RAD: MELODIA FM 99.2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/409.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD:  MENTA FM 88,0" tvg-logo="view-source:http://resources.live24.gr/resources/images/stations/3a1e49af-0825-45b7-8e98-bbf2e25b38c9.png" group-title="",GR RAD:  MENTA FM 88,0
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3578.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD:  PARTY FM 104" tvg-logo="view-source:http://resources.live24.gr/resources/images/stations/5fe9c5d4-e937-4423-95d5-ffa7af87e905.jpg" group-title="",GR RAD:  PARTY FM 104
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3579.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DIESI 101.3" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/diesi.png" group-title="",GR RAD: DIESI 101.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/408.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SFERA FM 102.2" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/sfera.png" group-title="",GR RAD: SFERA FM 102.2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/407.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PENIES 88.30 ATHENS" tvg-logo="" group-title="",GR RAD: PENIES 88.30 ATHENS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/405.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DROMOS 898" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/dromosfm.png" group-title="",GR RAD: DROMOS 898
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1504.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DERTI 986" tvg-logo="http://live24.gr/resrc/styles/custom-popups/derti/images_v2/logo.jpg" group-title="",GR RAD: DERTI 986
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2608.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SANTAS RADIO" tvg-logo="" group-title="",GR RAD: SANTAS RADIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3133.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: KISS FM 92.9" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/kissfm.png" group-title="",GR RAD: KISS FM 92.9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/330.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LAIKO RADIO 96.6" tvg-logo="" group-title="",GR RAD: LAIKO RADIO 96.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/368.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LAIKOS FM 87.6" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/laikos.png" group-title="",GR RAD: LAIKOS FM 87.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2598.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MAD RADIO 106.2" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/madradio.png" group-title="",GR RAD: MAD RADIO 106.2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/402.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MUSIC 89.2" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/music892.png" group-title="",GR RAD: MUSIC 89.2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/376.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SOHOS FM 88.7" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/sohos.png" group-title="",GR RAD: SOHOS FM 88.7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/398.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SUPER FM 89.6" tvg-logo="http://resources.live24.gr/resources/images/stations/db6e4f4f-96c1-42f6-80a3-cc2ef31253b8.png" group-title="",GR RAD: SUPER FM 89.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/375.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RED ATHENS 96.3" tvg-logo="" group-title="",GR RAD: RED ATHENS 96.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/404.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ASTRO ATHENS 99.8" tvg-logo="http://www.e-radio.eu/images/station_logos/100x100/1319097132_astrosradio.gif" group-title="",GR RAD: ASTRO ATHENS 99.8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/403.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: STYL FM ATHENS 104.8" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/stylefm.png" group-title="",GR RAD: STYL FM ATHENS 104.8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/406.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: KOSMORADIO 95.1" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/kosmoradio.png" group-title="",GR RAD: KOSMORADIO 95.1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2949.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: 99 FM RADIO 1 THES/NIKI" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/99fm.png" group-title="",GR RAD: 99 FM RADIO 1 THES/NIKI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/392.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: STUDIO 3 THESSALONIKI" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/studio3.png" group-title="",GR RAD: STUDIO 3 THESSALONIKI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/389.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO PONTOS LELEVOSE" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/lelevose.png" group-title="",GR RAD: RADIO PONTOS LELEVOSE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/394.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MEDIATOP 20" tvg-logo="http://iptv.iptvsub.info/icons/top%2020.png" group-title="",GR RAD: MEDIATOP 20
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1497.ts
+#EXTINF:-1 tvg-id="" tvg-name="(GR.RAD): MY MUSIC WEB RADIO" tvg-logo="http://iptv.iptvsub.info/icons/mymusic.jpg" group-title="",(GR.RAD): MY MUSIC WEB RADIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/17386.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DALKAS 88.2 XALKIDA" tvg-logo="http://resources.live24.gr/resources/images/stations/3968c97b-ec49-4ef4-af78-b972cd8e187e.jpg" group-title="",GR RAD: DALKAS 88.2 XALKIDA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2966.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MPLE 99.0" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/mple99.png" group-title="",GR RAD: MPLE 99.0
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3038.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ANASES INTERNET RADIO" tvg-logo="http://www.greekradios.gr/photos/logo_anases_max.jpg" group-title="",GR RAD: ANASES INTERNET RADIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3571.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: EROTAS FM GR" tvg-logo="http://www.greekradios.gr/photos/logo_erwtasfmnew_max.jpg" group-title="",GR RAD: EROTAS FM GR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3572.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: JUKEBOX RADIO NET" tvg-logo="http://www.greekradios.gr/photos/logo_jukebox1116_max.jpg" group-title="",GR RAD: JUKEBOX RADIO NET
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3573.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MIX FM 102.3 CYPRUS" tvg-logo="http://cdn.e-radio.gr/logos/cy/500/mixfmcyprus2.png" group-title="",GR RAD: MIX FM 102.3 CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/385.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO CAPITAL 101.4 CYPRUS" tvg-logo="http://cdn.e-radio.gr/logos/cy/500/capital961cy.png" group-title="",GR RAD: RADIO CAPITAL 101.4 CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/386.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ANT1 CY FM 102.7" tvg-logo="http://cdn.e-radio.gr/logos/cy/500/ant1cy.png" group-title="",GR RAD: ANT1 CY FM 102.7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/384.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO EPISTROFI CYPRUS" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" group-title="",GR RAD: RADIO EPISTROFI CYPRUS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/387.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SUPER SPORT FM CY 104" tvg-logo="http://cdn.e-radio.gr/logos/cy/500/sportfm.png" group-title="",GR RAD: SUPER SPORT FM CY 104
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/381.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: HELLAS FM  AUSTRALIA" tvg-logo="http://www.greekradios.gr/photos/logo_hellasworldradio.jpg" group-title="",GR RAD: HELLAS FM  AUSTRALIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3534.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO GREECE AUSTRALIA" tvg-logo="" group-title="",GR RAD: RADIO GREECE AUSTRALIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/379.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MANA ELLADA" tvg-logo="http://www.greekradios.gr/photos/logo_radiomanaellada_max.jpg" group-title="",GR RAD: MANA ELLADA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3535.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO SFINAKIA" tvg-logo="http://www.greekradios.gr/photos/logo_sfinakia_max.jpg" group-title="",GR RAD: RADIO SFINAKIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3537.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO SYMBAN" tvg-logo="http://www.greekradios.gr/photos/logo_SYMBAN.jpg" group-title="",GR RAD: RADIO SYMBAN
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3536.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: HELLAS FM" tvg-logo="http://www.greekradios.gr/photos/logo_hellasworldradio_max.jpg" group-title="",GR RAD: HELLAS FM
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/380.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: HELLENIC RADIO" tvg-logo="" group-title="",GR RAD: HELLENIC RADIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO PONTOS INTERN." tvg-logo="http://www.greekradios.gr/photos/logo_rpontos_max.jpg" group-title="",GR RAD: RADIO PONTOS INTERN.
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3533.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: KRHTH FM 87.5" tvg-logo="http://resources.live24.gr/resources/images/stations/eed35b1d-fb71-40fc-8c68-0b2be64f4deb.png" group-title="",GR RAD: KRHTH FM 87.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/377.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: CITY FM HRAKLEIO 100" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/cityfm.png" group-title="",GR RAD: CITY FM HRAKLEIO 100
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/364.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: FLY RETHYMNO" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/flyfm.png" group-title="",GR RAD: FLY RETHYMNO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/367.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: GAUDOS FM 88.8" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/gavdosfm.png" group-title="",GR RAD: GAUDOS FM 88.8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/360.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: HANIA FM 989" tvg-logo="//cdn.onlineradiobox.com/img/logo/4/46664.png" group-title="",GR RAD: HANIA FM 989
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO FAROS 91.8 XANIA" tvg-logo="http://www.onradio.gr/fb_logos/faros918.gif" group-title="",GR RAD: RADIO FAROS 91.8 XANIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3860.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SHTEIA FM 95.5" tvg-logo="http://resources.live24.gr/resources/images/stations/6261f452-32cd-4cb6-bbc1-7860808f378a.jpg" group-title="",GR RAD: SHTEIA FM 95.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/369.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: IERA ARCHIEPISKOPI KRHTHS 99.7" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/iak.png" group-title="",GR RAD: IERA ARCHIEPISKOPI KRHTHS 99.7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: KRHTIKORAMA FM 93.8" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/kritikorama.png" group-title="",GR RAD: KRHTIKORAMA FM 93.8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/372.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO LASITHI 90.3" tvg-logo="http://resources.live24.gr/resources/images/stations/45d8ed0d-31f4-4627-bfea-08ccb33aaee5.png" group-title="",GR RAD: RADIO LASITHI 90.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/362.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO RIZITES 92.4 CRETA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/rizites.png" group-title="",GR RAD: RADIO RIZITES 92.4 CRETA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/373.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SKAI KRHTHS 90.1" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/skai.png" group-title="",GR RAD: SKAI KRHTHS 90.1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/374.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PARAPOLITIKA FM PATRA 90,1" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/parapolitikapatras.png" group-title="",GR RAD: PARAPOLITIKA FM PATRA 90,1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2950.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MAX FM PATRAS" tvg-logo="http://resources.live24.gr/resources/images/stations/d7c74632-f167-4c91-a722-4492c2d2b7ce.png" group-title="",GR RAD: MAX FM PATRAS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2952.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SKAI PATRA 89.4" tvg-logo="http://www.greekradios.gr/photos/logo_skaipatras_max.jpg" group-title="",GR RAD: SKAI PATRA 89.4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/342.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: FASMA FM PATRA 99.7" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/fasma997.png" group-title="",GR RAD: FASMA FM PATRA 99.7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/340.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: GALAXY FM 106.1 PATRA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/galaxy1061.png" group-title="",GR RAD: GALAXY FM 106.1 PATRA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PARAPOLITIKA PATRA 90" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/parapolitikapatras.png" group-title="",GR RAD: PARAPOLITIKA PATRA 90
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/341.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LUX PATRA 102.7" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/lux1027.png" group-title="",GR RAD: LUX PATRA 102.7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/339.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD MAGIA FM 104.6" tvg-logo="" group-title="",GR RAD MAGIA FM 104.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118624.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MAX FM PATRA 93.4" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/maxfm934.png" group-title="",GR RAD: MAX FM PATRA 93.4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/344.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MELODIA PATRAS 100.4 FM" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/melodia.png" group-title="",GR RAD: MELODIA PATRAS 100.4 FM
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/346.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MELODY PATRA 88.80" tvg-logo="http://resources.live24.gr/resources/images/stations/f04ef64d-5c4b-4a5e-a640-518b3ae83179.jpg" group-title="",GR RAD: MELODY PATRA 88.80
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/338.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: XROMA FM 102.1 PATRA" tvg-logo="http://www.onradio.gr/fb_logos/xromafm.gif" group-title="",GR RAD: XROMA FM 102.1 PATRA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3862.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MYTHOS FM 104.8 PATRA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/mythosfm.png" group-title="",GR RAD: MYTHOS FM 104.8 PATRA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/343.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO MESSATIDA 98 FM" tvg-logo="http://resources.live24.gr/resources/images/stations/dcc670f2-c5d7-45db-90b9-81dff63782a1.png" group-title="",GR RAD: RADIO MESSATIDA 98 FM
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/331.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO AMFILOXIA 104.5" tvg-logo="http://resources.live24.gr/resources/images/stations/32146178-ba4b-4b1d-b431-689c7384db1d.jpg" group-title="",GR RAD: RADIO AMFILOXIA 104.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/348.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: AERAS FM 99.5 AGRINIO" tvg-logo="http://resources.live24.gr/resources/images/stations/5f23cf6c-464a-4219-86b0-5d9821537884.png" group-title="",GR RAD: AERAS FM 99.5 AGRINIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/351.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ARIA FM AGRINIO 107.4" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/ariafm.png" group-title="",GR RAD: ARIA FM AGRINIO 107.4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/355.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DYTIKA FM AGRINIO 92.8" tvg-logo="http://resources.live24.gr/resources/images/stations/85d6c6eb-a442-4516-b264-a5a1ab48d724.png" group-title="",GR RAD: DYTIKA FM AGRINIO 92.8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: GLENTI 89.2 AGRINIO" tvg-logo="http://www.glenti892.gr/images/logo.png" group-title="",GR RAD: GLENTI 89.2 AGRINIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/352.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MAGIC FM 102.9 AGRINIO" tvg-logo="http://www.onradio.gr/fb_logos/magicfmagrinio.gif" group-title="",GR RAD: MAGIC FM 102.9 AGRINIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3861.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MAD RADIO 107 AGRINIO" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/madagrinio.png" group-title="",GR RAD: MAD RADIO 107 AGRINIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/350.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MHTROPOLH AITOLIAS AKARNANIAS 106.3" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/imaa1063.png" group-title="",GR RAD: MHTROPOLH AITOLIAS AKARNANIAS 106.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/347.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MUSICLIFE 95.1 AGRINIO" tvg-logo="http://resources.live24.gr/resources/images/stations/b7476c7e-66a2-45de-9784-e81134a2608e.jpg" group-title="",GR RAD: MUSICLIFE 95.1 AGRINIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/354.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO XIROMERO 88.3" tvg-logo="http://resources.live24.gr/resources/images/stations/05fe4096-6ebd-4a0a-a214-b89a1ca20a0a.png" group-title="",GR RAD: RADIO XIROMERO 88.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/353.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIOF. STATHMOS MESOLLOGIOU" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/mesologgi.png" group-title="",GR RAD: RADIOF. STATHMOS MESOLLOGIOU
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/2968.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO LEPANTO 101.4" tvg-logo="" group-title="",GR RAD: RADIO LEPANTO 101.4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD PHGASOS ARTA 106" tvg-logo="" group-title="",GR RAD PHGASOS ARTA 106
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118623.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: BEST RADIO 90.7 IOANNINA" tvg-logo="http://resources.live24.gr/resources/images/stations/729f1252-6ab5-4f78-b549-846093153c2e.jpg" group-title="",GR RAD: BEST RADIO 90.7 IOANNINA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/359.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO HPEIROS 94.5" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/radioepirus.png" group-title="",GR RAD: RADIO HPEIROS 94.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/358.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO RWMAIOS 94 IOANNINA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/romaios.png" group-title="",GR RAD: RADIO RWMAIOS 94 IOANNINA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/357.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: CITY FM 103.8 KALAMATA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/cityfm1038.png" group-title="",GR RAD: CITY FM 103.8 KALAMATA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/329.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DHMOTIKH RADIOFONIA TRIPOLHS 91.5" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/drt.png" group-title="",GR RAD: DHMOTIKH RADIOFONIA TRIPOLHS 91.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/325.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: DIAULOS 99.2 KALAMATA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/diavloskalamata.png" group-title="",GR RAD: DIAULOS 99.2 KALAMATA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/328.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: EKRIXI FM 99.7" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/nologo.png" group-title="",GR RAD: EKRIXI FM 99.7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ELEYTHERH RADIOFONIA KEFALLONIAS" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/erk.png" group-title="",GR RAD: ELEYTHERH RADIOFONIA KEFALLONIAS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: EN PLO 89.2" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/enplofm.png" group-title="",GR RAD: EN PLO 89.2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/315.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: GLENTI FM 101.1 XANTHI" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/glenti1011.png" group-title="",GR RAD: GLENTI FM 101.1 XANTHI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/323.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: GRECA PYRGOS 99.4" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/greca.png" group-title="",GR RAD: GRECA PYRGOS 99.4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/332.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: IONION FM 95.5 PYRGOS" tvg-logo="http://easyradio.gr/assets/images/ER-logo.gif" group-title="",GR RAD: IONION FM 95.5 PYRGOS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/334.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: KANALI 20 88.6 KALAMATA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/kanali20.png" group-title="",GR RAD: KANALI 20 88.6 KALAMATA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/327.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LAIKOS LAMIAS 100.6" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/laikoslamia.png" group-title="",GR RAD: LAIKOS LAMIAS 100.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/316.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LOUTRAKI FM 96.9" tvg-logo="http://resources.live24.gr/resources/images/stations/94114c91-f4d3-450c-9e0e-b3ad786deb7d.png" group-title="",GR RAD: LOUTRAKI FM 96.9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/335.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ORIGINAL 94.4" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/original944.png" group-title="",GR RAD: ORIGINAL 94.4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/370.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ORT FM PYRGOS 92.3" tvg-logo="http://resources.live24.gr/resources/images/stations/f1fbe09c-20e8-4678-a9f8-fa7c9ccee598.jpg" group-title="",GR RAD: ORT FM PYRGOS 92.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/333.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PALMOS  LAMIA 95" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/palmos95.png" group-title="",GR RAD: PALMOS  LAMIA 95
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/336.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PARADISE RADIO 101.6" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/paradise1016.png" group-title="",GR RAD: PARADISE RADIO 101.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/401.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO AMFISSA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/radioamfissa.png" group-title="",GR RAD: RADIO AMFISSA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/314.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO ECLLESIA OF GREECE 89.5" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/athens/ecclesia.png" group-title="",GR RAD: RADIO ECLLESIA OF GREECE 89.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/399.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO ENERGEIA 106.4 KORINTHOS" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/energeia1064.png" group-title="",GR RAD: RADIO ENERGEIA 106.4 KORINTHOS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/337.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO KOSMOS XALKIDAS 100" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/kosmos100.png" group-title="",GR RAD: RADIO KOSMOS XALKIDAS 100
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/317.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO KYPARISSIA 936" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/radiokyparissia.png" group-title="",GR RAD: RADIO KYPARISSIA 936
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/324.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO LAMIA FM1 96.2" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/lamiafm1.png" group-title="",GR RAD: RADIO LAMIA FM1 96.2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/320.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO PREVEZA 93" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/radiopreveza.png" group-title="",GR RAD: RADIO PREVEZA 93
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/313.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIOKYMATA 102.6" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/radiokimatare.png" group-title="",GR RAD: RADIOKYMATA 102.6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/363.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RIZES 106.5" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/life1063.png" group-title="",GR RAD: RIZES 106.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/400.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RYTHMOS 106 XANTHI" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/rythmosxan.png" group-title="",GR RAD: RYTHMOS 106 XANTHI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/322.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RYTHMOS 94.6 LAMIA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/rythmos946.png" group-title="",GR RAD: RYTHMOS 94.6 LAMIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/321.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SFINAKIA FM 94.3" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/nologo.png" group-title="",GR RAD: SFINAKIA FM 94.3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/326.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: STAR FM 88.8 KERKYRA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/star888.png" group-title="",GR RAD: STAR FM 88.8 KERKYRA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/312.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: STAR FM 97.1 LAMIA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/starfmlamia.png" group-title="",GR RAD: STAR FM 97.1 LAMIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/318.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ZOO RADIO 90.8" tvg-logo="http://iptv.iptvsub.info/icons/RADIO_ICONS/thessaloniki/zoo.png" group-title="",GR RAD: ZOO RADIO 90.8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/397.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ZYGOS FM 100 TRIKALA" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/nologo.png" group-title="",GR RAD: ZYGOS FM 100 TRIKALA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/310.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PARADOSIAKOS 106,6 LARISSA" tvg-logo="http://www.greekradios.gr/photos/logo_paradosiakosnew_max.jpg" group-title="",GR RAD: PARADOSIAKOS 106,6 LARISSA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3554.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: SFERA 101,6 LARISSA" tvg-logo="http://www.greekradios.gr/photos/logo_sfera1016_new_max.jpg" group-title="",GR RAD: SFERA 101,6 LARISSA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3552.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PARTY 97,1 LARISSA" tvg-logo="http://www.greekradios.gr/photos/logo_party_max.jpg" group-title="",GR RAD: PARTY 97,1 LARISSA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3550.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO ELASSONA 88,4" tvg-logo="http://www.greekradios.gr/photos/logo_radioelassonanew_max.jpg" group-title="",GR RAD: RADIO ELASSONA 88,4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3547.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PERFECT 103.3 VOLOS" tvg-logo="http://www.greekradios.gr/photos/logo_perfect1033_new_max.jpg" group-title="",GR RAD: PERFECT 103.3 VOLOS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3551.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: HOT MIX 88,0 TRIKALA" tvg-logo="http://www.greekradios.gr/photos/logo_hotmix_max.jpg" group-title="",GR RAD: HOT MIX 88,0 TRIKALA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3548.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ANGEL 102,8 KARDITSA" tvg-logo="http://www.greekradios.gr/photos/logo_angel1028_max.jpg" group-title="",GR RAD: ANGEL 102,8 KARDITSA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3549.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LAIKOS 105,7 LARISSA" tvg-logo="http://www.greekradios.gr/photos/logo_laikos1057_max.jpg" group-title="",GR RAD: LAIKOS 105,7 LARISSA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3553.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: FOKUS 88,8 ALEXANDR." tvg-logo="http://www.greekradios.gr/photos/logo_focus888_max.jpg" group-title="",GR RAD: FOKUS 88,8 ALEXANDR.
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3556.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MAXIMUM FM 93,6 ALEXANDR." tvg-logo="http://www.greekradios.gr/photos/logo_maximumfm_max.jpg" group-title="",GR RAD: MAXIMUM FM 93,6 ALEXANDR.
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3557.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: MOUSIKO PANORAMA 100,8 KATERINI" tvg-logo="http://www.greekradios.gr/photos/logo_mousikopanorama1008_max.jpg" group-title="",GR RAD: MOUSIKO PANORAMA 100,8 KATERINI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3562.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO LEHOVO 97,1 GREVENA" tvg-logo="http://www.greekradios.gr/photos/logo_lehovo_max.jpg" group-title="",GR RAD: RADIO LEHOVO 97,1 GREVENA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3563.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO PLAY FM 91,5 XANTHI" tvg-logo="http://www.greekradios.gr/photos/logo_radioplay915_max.jpg" group-title="",GR RAD: RADIO PLAY FM 91,5 XANTHI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3558.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: STOXOS FM 98,9 KAVALA" tvg-logo="http://www.greekradios.gr/photos/logo_stoxos989_max.jpg" group-title="",GR RAD: STOXOS FM 98,9 KAVALA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3561.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: TRIKALA TOP.RADIOFONIA 103,5" tvg-logo="http://www.greekradios.gr/photos/logo_trikala1035_max.jpg" group-title="",GR RAD: TRIKALA TOP.RADIOFONIA 103,5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3555.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: AQUARIUS 105.5" tvg-logo="http://cdn.e-radio.gr/logos/gr/500/aquarius.png" group-title="",GR RAD: AQUARIUS 105.5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/309.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO LEUKADA 88,4" tvg-logo="http://www.greekradios.gr/photos/logo_radiolefkadanew.jpg" group-title="",GR RAD: RADIO LEUKADA 88,4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3564.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: STAR FM 88,8 KERKYRA" tvg-logo="http://www.greekradios.gr/photos/logo_starfm888new_max.jpg" group-title="",GR RAD: STAR FM 88,8 KERKYRA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3565.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: EMPNEUSI 107 SYROS" tvg-logo="http://www.greekradios.gr/photos/logo_empneusi_max.jpg" group-title="",GR RAD: EMPNEUSI 107 SYROS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3567.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: PIRATE FM 91 HIOS" tvg-logo="http://www.greekradios.gr/photos/logo_pirate_max.jpg" group-title="",GR RAD: PIRATE FM 91 HIOS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3568.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO AGIASSOS MITILINI" tvg-logo="http://www.greekradios.gr/photos/logo_agiasos_max.jpg" group-title="",GR RAD: RADIO AGIASSOS MITILINI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3566.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO ARTEMIS 94,4 LEROS" tvg-logo="http://www.greekradios.gr/photos/logo_artemisradio_max.jpg" group-title="",GR RAD: RADIO ARTEMIS 94,4 LEROS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3569.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO CITY 93 KOS" tvg-logo="http://www.greekradios.gr/photos/logo_city93new_max.jpg" group-title="",GR RAD: RADIO CITY 93 KOS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3570.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: ELLINIKO PARADOSIAKO" tvg-logo="http://www.greekradios.gr/photos/logo_elparadio_max.jpg" group-title="",GR RAD: ELLINIKO PARADOSIAKO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3575.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: LAKKA SOULI RADIO" tvg-logo="http://www.greekradios.gr/photos/logo_lakkasouli_max.jpg" group-title="",GR RAD: LAKKA SOULI RADIO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3574.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: OXYGENE" tvg-logo="https://static.wixstatic.com/media/567ee0_67f3a11f65b646baba3ec242ce7f0186%7Emv2.jpg" group-title="",GR RAD: OXYGENE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3852.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD: RADIO BLACKMAN" tvg-logo="http://www.onradio.gr/fb_logos/blackman.gif" group-title="",GR RAD: RADIO BLACKMAN
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3859.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD 269 RADIO LAIKA" tvg-logo="" group-title="",GR RAD 269 RADIO LAIKA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118625.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD CHRISTMAS CLASSIC" tvg-logo="" group-title="",GR RAD CHRISTMAS CLASSIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118632.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD CHRISTMAS FUN" tvg-logo="" group-title="",GR RAD CHRISTMAS FUN
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118633.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD CHRISTMAS GOSPEL." tvg-logo="" group-title="",GR RAD CHRISTMAS GOSPEL.
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118634.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD CHRISTMAS KIDS" tvg-logo="" group-title="",GR RAD CHRISTMAS KIDS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118635.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD CHRISTMAS RADIO 1" tvg-logo="" group-title="",GR RAD CHRISTMAS RADIO 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118630.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD CHRISTMAS SOUNDTRACKS" tvg-logo="" group-title="",GR RAD CHRISTMAS SOUNDTRACKS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118636.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD CHRITSMAS RADIO (2)" tvg-logo="" group-title="",GR RAD CHRITSMAS RADIO (2)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118631.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD GRIGORIS 306 laika-dhmotika -nisiotika" tvg-logo="" group-title="",GR RAD GRIGORIS 306 laika-dhmotika -nisiotika
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118626.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD RADIO ANAMNHSEIS" tvg-logo="" group-title="",GR RAD RADIO ANAMNHSEIS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118629.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD STUDIO A1000 (2)" tvg-logo="" group-title="",GR RAD STUDIO A1000 (2)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118628.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD STUDIO A1000 LAIKA PALIA KAI NEA" tvg-logo="" group-title="",GR RAD STUDIO A1000 LAIKA PALIA KAI NEA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/118627.ts
+#EXTINF:-1 tvg-id="" tvg-name="GR RAD RADIO PIERIA 104, 2" tvg-logo="" group-title="",GR RAD RADIO PIERIA 104, 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/119318.ts
+#EXTINF:-1 tvg-id="BBC1 HD" tvg-name="(UK): BBC HD" tvg-logo="http://iptv.iptvsub.info/icons/uk/bbc%20hd.png" group-title="UNITED KINGDOM",(UK): BBC HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1823.ts
+#EXTINF:-1 tvg-id="BBC One Lon" tvg-name="(UK): BBC 1" tvg-logo="http://iptv.iptvsub.info/icons/uk/bbc1.png" group-title="UNITED KINGDOM",(UK): BBC 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1824.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="(UK): BBC 2" tvg-logo="http://iptv.iptvsub.info/icons/uk/bbc2.png" group-title="UNITED KINGDOM",(UK): BBC 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1825.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): BBC 3" tvg-logo="http://iptv.iptvsub.info/icons/uk/bbc3.jpg" group-title="UNITED KINGDOM",(UK): BBC 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1826.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="(UK): BBC FOUR" tvg-logo="http://iptv.iptvsub.info/icons/uk/bbc4.png" group-title="UNITED KINGDOM",(UK): BBC FOUR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1827.ts
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="(UK): ITV 1HD" tvg-logo="" group-title="UNITED KINGDOM",(UK): ITV 1HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1830.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="(UK): ITV 2 HD" tvg-logo="http://iptv.iptvsub.info/icons/UK/ITV2HD_uk.jpg" group-title="UNITED KINGDOM",(UK): ITV 2 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1831.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="(UK): ITV 3" tvg-logo="" group-title="UNITED KINGDOM",(UK): ITV 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15567.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="(UK): ITV 4" tvg-logo="" group-title="UNITED KINGDOM",(UK): ITV 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15568.ts
+#EXTINF:-1 tvg-id="Sky News" tvg-name="(UK): SKY NEWS" tvg-logo="" group-title="UNITED KINGDOM",(UK): SKY NEWS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1130.ts
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-name="(UK): SKY 1 HD" tvg-logo="http://iptv.iptvsub.info/icons/UK/Sky1HD_uk.jpg" group-title="UNITED KINGDOM",(UK): SKY 1 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15569.ts
+#EXTINF:-1 tvg-id="Sky2" tvg-name="(UK): SKY 2" tvg-logo="http://iptv.iptvsub.info/icons/UK/Sky2_uk.jpg" group-title="UNITED KINGDOM",(UK): SKY 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15570.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="(UK): CHANNEL 4" tvg-logo="" group-title="UNITED KINGDOM",(UK): CHANNEL 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1828.ts
+#EXTINF:-1 tvg-id="More4" tvg-name="(UK): MORE 4" tvg-logo="" group-title="UNITED KINGDOM",(UK): MORE 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1866.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="(UK): CHANNEL 5" tvg-logo="" group-title="UNITED KINGDOM",(UK): CHANNEL 5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1829.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="(UK): SKY ATLANTIC" tvg-logo="http://iptv.iptvsub.info/icons/uk/atlantic.png" group-title="UNITED KINGDOM",(UK): SKY ATLANTIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1853.ts
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-name="(UK): SKY DRAMA" tvg-logo="http://iptv.iptvsub.info/icons/uk/drama.jpg" group-title="UNITED KINGDOM",(UK): SKY DRAMA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1854.ts
+#EXTINF:-1 tvg-id="Sky Movies Family" tvg-name="(UK): SKY FAMILY" tvg-logo="http://iptv.iptvsub.info/icons/uk/ky%20family.png" group-title="UNITED KINGDOM",(UK): SKY FAMILY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1855.ts
+#EXTINF:-1 tvg-id="Sky Hits HD" tvg-name="(UK): SKY HITS" tvg-logo="http://iptv.iptvsub.info/icons/uk/sky%20hits.png" group-title="UNITED KINGDOM",(UK): SKY HITS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1856.ts
+#EXTINF:-1 tvg-id="Sky Movies Premiere" tvg-name="(UK): SKY PREMIERE" tvg-logo="http://iptv.iptvsub.info/icons/uk/sky%20premiere.jpg" group-title="UNITED KINGDOM",(UK): SKY PREMIERE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1857.ts
+#EXTINF:-1 tvg-id="movies4men" tvg-name="(UK): MOVIES4MEN" tvg-logo="http://iptv.iptvsub.info/icons/UK/Movies4Men.jpg" group-title="UNITED KINGDOM",(UK): MOVIES4MEN
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15571.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): TRUE MOVIES" tvg-logo="http://iptv.iptvsub.info/icons/UK/TrueMovies.jpg" group-title="UNITED KINGDOM",(UK): TRUE MOVIES
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15572.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): TRUE MOVIES 2" tvg-logo="http://iptv.iptvsub.info/icons/UK/TrueMovies2.jpg" group-title="UNITED KINGDOM",(UK): TRUE MOVIES 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15573.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): SKY ACTION & ADVENTURE" tvg-logo="http://iptv.iptvsub.info/icons/UK/SkyMoviesActionAdventure_uk.jpg" group-title="UNITED KINGDOM",(UK): SKY ACTION & ADVENTURE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15577.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): SKY CINEMA DISNEY" tvg-logo="http://iptv.iptvsub.info/icons/UK/SkyMoviesDIsneyHDB_uk.jpg" group-title="UNITED KINGDOM",(UK): SKY CINEMA DISNEY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15580.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): SKY CINEMA SCI FI & HORROR" tvg-logo="http://iptv.iptvsub.info/icons/UK/SkyMoviesHDSciFiHorror_uk.jpg" group-title="UNITED KINGDOM",(UK): SKY CINEMA SCI FI & HORROR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15581.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): SKY COMEDY" tvg-logo="http://iptv.iptvsub.info/icons/UK/SkyMoviesComedy.jpg" group-title="UNITED KINGDOM",(UK): SKY COMEDY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15578.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): SKY CRIME & THRILLER" tvg-logo="http://iptv.iptvsub.info/icons/UK/SkyMoviesCrimeThrill_uk.jpg" group-title="UNITED KINGDOM",(UK): SKY CRIME & THRILLER
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15579.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): SKY MOVIES SHOWCASE" tvg-logo="http://iptv.iptvsub.info/icons/UK/SkyMoviesShowcase_uk.jpg" group-title="UNITED KINGDOM",(UK): SKY MOVIES SHOWCASE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15582.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="(UK): E!" tvg-logo="" group-title="UNITED KINGDOM",(UK): E!
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3754.ts
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="(UK): CBS REALITY" tvg-logo="http://iptv.iptvsub.info/icons/uk/cbs%20reality.jpg" group-title="UNITED KINGDOM",(UK): CBS REALITY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1867.ts
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="(UK): DISCOVERY HD" tvg-logo="http://iptv.iptvsub.info/icons/discovery_global_us.png" group-title="UNITED KINGDOM",(UK): DISCOVERY HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1862.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="(UK): DISCOVERY SCIENCE" tvg-logo="" group-title="UNITED KINGDOM",(UK): DISCOVERY SCIENCE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1868.ts
+#EXTINF:-1 tvg-id="Disc.History" tvg-name="(UK): DISCOVERY HISTORY" tvg-logo="http://iptv.iptvsub.info/icons/UK/DiscoveryHistory_uk.jpg" group-title="UNITED KINGDOM",(UK): DISCOVERY HISTORY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1863.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="(UK): NAT GEO WILD" tvg-logo="http://iptv.iptvsub.info/icons/nat%20geo%20wild.png" group-title="UNITED KINGDOM",(UK): NAT GEO WILD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1861.ts
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="(UK): NATIONAL GEOGRAFIC" tvg-logo="http://iptv.iptvsub.info/icons/nat_geo_us.png" group-title="UNITED KINGDOM",(UK): NATIONAL GEOGRAFIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1860.ts
+#EXTINF:-1 tvg-id="History HD" tvg-name="(UK): HISTORY CHANNEL" tvg-logo="" group-title="UNITED KINGDOM",(UK): HISTORY CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/11403.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): HISTORY 2" tvg-logo="" group-title="UNITED KINGDOM",(UK): HISTORY 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/123381.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="(UK): CARTOON NETWORK" tvg-logo="" group-title="UNITED KINGDOM",(UK): CARTOON NETWORK
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/3755.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="(UK): DISNEY CHANNEL" tvg-logo="http://iptv.iptvsub.info/icons/disney_channel_global.png" group-title="UNITED KINGDOM",(UK): DISNEY CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1859.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="(UK): MTV" tvg-logo="http://iptv.iptvsub.info/icons/UK/MTV02.jpg" group-title="UNITED KINGDOM",(UK): MTV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15589.ts
+#EXTINF:-1 tvg-id="MTV BASE" tvg-name="(UK): MTV BASE" tvg-logo="http://iptv.iptvsub.info/icons/UK/MTVBase.jpg" group-title="UNITED KINGDOM",(UK): MTV BASE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15590.ts
+#EXTINF:-1 tvg-id="" tvg-name="(UK): MTV CLASSIC" tvg-logo="http://iptv.iptvsub.info/icons/UK/MTVClassic_ce.jpg" group-title="UNITED KINGDOM",(UK): MTV CLASSIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15591.ts
+#EXTINF:-1 tvg-id="MTV DANCE" tvg-name="(UK): MTV DANCE" tvg-logo="http://iptv.iptvsub.info/icons/UK/MTVDance_at.jpg" group-title="UNITED KINGDOM",(UK): MTV DANCE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15592.ts
+#EXTINF:-1 tvg-id="MTV HITS" tvg-name="(UK): MTV HITS" tvg-logo="http://iptv.iptvsub.info/icons/UK/MTVHits_at.jpg" group-title="UNITED KINGDOM",(UK): MTV HITS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15593.ts
+#EXTINF:-1 tvg-id="MTV MUSIC" tvg-name="(UK): MTV MUSIC" tvg-logo="http://iptv.iptvsub.info/icons/UK/MTVMusic.jpg" group-title="UNITED KINGDOM",(UK): MTV MUSIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15594.ts
+#EXTINF:-1 tvg-id="MTV ROCKS" tvg-name="(UK): MTV ROCKS" tvg-logo="http://iptv.iptvsub.info/icons/UK/MTVRocks_at.jpg" group-title="UNITED KINGDOM",(UK): MTV ROCKS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/15595.ts
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="(DE): DAS ERSTE" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/das%20erste.png" group-title="GERMANY",(DE): DAS ERSTE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1290.ts
+#EXTINF:-1 tvg-id="3sat HD" tvg-name="(DE): 3SAT" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/3sat.png" group-title="GERMANY",(DE): 3SAT
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1292.ts
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="(DE): PRO 7" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/Pro7HD.jpg" group-title="GERMANY",(DE): PRO 7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6153.ts
+#EXTINF:-1 tvg-id="RTL HD" tvg-name="(DE): RTL" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/RTL.jpg" group-title="GERMANY",(DE): RTL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/925.ts
+#EXTINF:-1 tvg-id="RTL II HD" tvg-name="(DE): RTL 2" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/rtl2.png" group-title="GERMANY",(DE): RTL 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/924.ts
+#EXTINF:-1 tvg-id="SUPER RTL HD" tvg-name="(DE): SUPER RTL" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/super%20rtl.png" group-title="GERMANY",(DE): SUPER RTL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1346.ts
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="(DE): RTL CRIME" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/rtl%20crime.png" group-title="GERMANY",(DE): RTL CRIME
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1306.ts
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="(DE): RTL LIVING" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/rtl%20living.png" group-title="GERMANY",(DE): RTL LIVING
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1318.ts
+#EXTINF:-1 tvg-id="RTL NITRO HD" tvg-name="(DE): RTL NITRO" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/rtl%20nitro.png" group-title="GERMANY",(DE): RTL NITRO
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1317.ts
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="(DE): RTL PASSION" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/rtl%20passion.png" group-title="GERMANY",(DE): RTL PASSION
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/923.ts
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="(DE): ZDF HD" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/ZDFHD_de.jpg" group-title="GERMANY",(DE): ZDF HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6652.ts
+#EXTINF:-1 tvg-id="SAT.1 HD" tvg-name="(DE): SAT1" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sat%201.png" group-title="GERMANY",(DE): SAT1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1293.ts
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="(DE): SAT 1 GOLD" tvg-logo="http://iptv.iptvsub.info/icons/GERMANY/Sat1Gold_de.jpg" group-title="GERMANY",(DE): SAT 1 GOLD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/6955.ts
+#EXTINF:-1 tvg-id="kabel eins HD" tvg-name="( DE): KABEL EINS" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/kabel%20eins.png" group-title="GERMANY",( DE): KABEL EINS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1295.ts
+#EXTINF:-1 tvg-id="ProSieben HD" tvg-name="(DE): PROSIEBEN MAXX" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/prosieben%20max.png" group-title="GERMANY",(DE): PROSIEBEN MAXX
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1345.ts
+#EXTINF:-1 tvg-id="VOX HD" tvg-name="(DE): VOX" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/vox.png" group-title="GERMANY",(DE): VOX
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1297.ts
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="(DE): ORF 1" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/orf%201.png" group-title="GERMANY",(DE): ORF 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1299.ts
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="(DE): ORF 2" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/orf%202.png" group-title="GERMANY",(DE): ORF 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1300.ts
+#EXTINF:-1 tvg-id="n-tv HD" tvg-name="(DE): N-TV" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/n-tv.png" group-title="GERMANY",(DE): N-TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1301.ts
+#EXTINF:-1 tvg-id="N24 HD" tvg-name="(DE): N24" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/n%2024.png" group-title="GERMANY",(DE): N24
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1302.ts
+#EXTINF:-1 tvg-id="Sky Cinema" tvg-name="(DE): SKY CINEMA" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20cinema.png" group-title="GERMANY",(DE): SKY CINEMA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1303.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): SKY CINEMA FAMILY" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20family.png" group-title="GERMANY",(DE): SKY CINEMA FAMILY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1321.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): Sky 13TH Street" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/13th%20street.png" group-title="GERMANY",(DE): Sky 13TH Street
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/920.ts
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="(DE): Sky Atlantic HD" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/atlantic%20hd.png" group-title="GERMANY",(DE): Sky Atlantic HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/921.ts
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="(DE): SKY COMEDY" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20comedy.png" group-title="GERMANY",(DE): SKY COMEDY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1305.ts
+#EXTINF:-1 tvg-id="Sky Emotion" tvg-name="(DE): SKY EMOTION" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20emotion.png" group-title="GERMANY",(DE): SKY EMOTION
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1314.ts
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="(DE): SKY KRIMI" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20krimi.png" group-title="GERMANY",(DE): SKY KRIMI
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1312.ts
+#EXTINF:-1 tvg-id="Sky Nostalgie" tvg-name="(DE): SKY NOSTALGIE" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20nostalgie.png" group-title="GERMANY",(DE): SKY NOSTALGIE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1313.ts
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="(DE): SKY ACTION" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20action.png" group-title="GERMANY",(DE): SKY ACTION
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1304.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): SKY ARTS" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20arts.png" group-title="GERMANY",(DE): SKY ARTS
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1310.ts
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="(DE): Sky Fox HD" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20fox.png" group-title="GERMANY",(DE): Sky Fox HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/919.ts
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="(DE): KINOWELT" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/kinowelt.png" group-title="GERMANY",(DE): KINOWELT
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1315.ts
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="(DE): Sky SyFy" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20syfy.png" group-title="GERMANY",(DE): Sky SyFy
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/917.ts
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="(DE): TNT SERIE" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/tnt%20serie.png" group-title="GERMANY",(DE): TNT SERIE
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1308.ts
+#EXTINF:-1 tvg-id="TNT Comedy HD" tvg-name="(DE): TNT COMEDY" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/tnt%20comedy.png" group-title="GERMANY",(DE): TNT COMEDY
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1309.ts
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="(DE): UNIVERSAL" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/universal.png" group-title="GERMANY",(DE): UNIVERSAL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1307.ts
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="(AS): [DE] SKY SPORTS AUSTRIA" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] SKY SPORTS AUSTRIA
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1336.ts
+#EXTINF:-1 tvg-id="Sky Sport  1" tvg-name="(AS): [DE] SKY SPORT 1 HD." tvg-logo="" group-title="ALL SPORTS",(AS): [DE] SKY SPORT 1 HD.
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AS): [DE] SKY SPORTS 3 HD (games only)" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] SKY SPORTS 3 HD (games only)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1323.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AS): [DE] SKY SPORTS 4 HD (games only)" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] SKY SPORTS 4 HD (games only)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1324.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): DAZN BAR 1 HD" tvg-logo="" group-title="GERMANY",(DE): DAZN BAR 1 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/107627.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): DAZN BAR  2 HD" tvg-logo="" group-title="GERMANY",(DE): DAZN BAR  2 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/107628.ts
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 1 HD" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 1 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1326.ts
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 2 HD" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 2 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1327.ts
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 3 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 3 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1328.ts
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 4 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 4 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1329.ts
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 5 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 5 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1330.ts
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 6 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 6 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1331.ts
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 7 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 7 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1332.ts
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 8 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 8 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1333.ts
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="(AS): [DE] SKY BUNDESLIGA 9 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE] SKY BUNDESLIGA 9 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1334.ts
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="(AS): [DE]SKY BUNDESLIGA 10 HD (only games)" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/bundesliga.png" group-title="ALL SPORTS",(AS): [DE]SKY BUNDESLIGA 10 HD (only games)
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1335.ts
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="(AS): [DE] EUROSPORT 1" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1338.ts
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="(AS): [DE] EUROSPORT 2 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT 2 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1339.ts
+#EXTINF:-1 tvg-id="Eurosport360HD 2" tvg-name="(AS): [DE] EUROSPORT EXTRA 2 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT EXTRA 2 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4480.ts
+#EXTINF:-1 tvg-id="Eurosport360HD 4" tvg-name="(AS): [DE]: EUROSPORT 360 4 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE]: EUROSPORT 360 4 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4481.ts
+#EXTINF:-1 tvg-id="Eurosport360HD 5" tvg-name="(AS): [DE] EUROSPORT 360 5 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT 360 5 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4482.ts
+#EXTINF:-1 tvg-id="Eurosport360HD 6" tvg-name="(AS): [DE] EUROSPORT 360 6 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT 360 6 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4483.ts
+#EXTINF:-1 tvg-id="Eurosport360HD 7" tvg-name="(AS): [DE] EUROSPORT 360 7 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT 360 7 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4484.ts
+#EXTINF:-1 tvg-id="Eurosport360HD 8" tvg-name="(AS): [DE] EUROSPORT 360 8 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT 360 8 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4485.ts
+#EXTINF:-1 tvg-id="Eurosport360HD 9" tvg-name="(AS): [DE] EUROSPORT 360 9 HD" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] EUROSPORT 360 9 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4486.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="(DE): National Geographic HD" tvg-logo="http://iptv.iptvsub.info/icons/nat_geo_us.png" group-title="GERMANY",(DE): National Geographic HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/891.ts
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="(DE): National Geographic Wild" tvg-logo="http://iptv.iptvsub.info/icons/nat%20geo%20wild.png" group-title="GERMANY",(DE): National Geographic Wild
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/890.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="(DE): DISCOVERY CHANNEL HD" tvg-logo="http://iptv.iptvsub.info/icons/discovery_global_us.png" group-title="GERMANY",(DE): DISCOVERY CHANNEL HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1342.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="(DE): History" tvg-logo="" group-title="GERMANY",(DE): History
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/894.ts
+#EXTINF:-1 tvg-id="fashiontv HD" tvg-name="(DE): FASHION TV HD" tvg-logo="" group-title="GERMANY",(DE): FASHION TV HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1356.ts
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="(AS): [DE] MOTORVISION" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/motorvision.png" group-title="ALL SPORTS",(AS): [DE] MOTORVISION
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1340.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="(DE): TLC HD" tvg-logo="http://iptv.iptvsub.info/icons/tlc_us%20%281%29.png" group-title="GERMANY",(DE): TLC HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1319.ts
+#EXTINF:-1 tvg-id="DMAX HD" tvg-name="(DE): DMAX" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/dmax.png" group-title="GERMANY",(DE): DMAX
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1344.ts
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="(DE): E! ENTERTEIMENT" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/entertaiment.png" group-title="GERMANY",(DE): E! ENTERTEIMENT
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1311.ts
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="(DE): A&E" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/a%26e.png" group-title="GERMANY",(DE): A&E
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1343.ts
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="(DE): TNT Film" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/tnt.png" group-title="GERMANY",(DE): TNT Film
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/916.ts
+#EXTINF:-1 tvg-id="KiKA HD" tvg-name="(DE): Kika" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/kika.png" group-title="GERMANY",(DE): Kika
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/903.ts
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="(DE): Nickelodeon" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/nickelodeon.png" group-title="GERMANY",(DE): Nickelodeon
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/902.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="(DE): Sky Cartoon Network" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/cartoon%20network.png" group-title="GERMANY",(DE): Sky Cartoon Network
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/900.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): BABY TV" tvg-logo="http://iptv.iptvsub.info/icons/babytv.png" group-title="GERMANY",(DE): BABY TV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1355.ts
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="(DE): BOOMERANG" tvg-logo="" group-title="GERMANY",(DE): BOOMERANG
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1349.ts
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="(DE): CARTOON NETWORK" tvg-logo="" group-title="GERMANY",(DE): CARTOON NETWORK
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1348.ts
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="(DE): DISNEY CHANNEL" tvg-logo="" group-title="GERMANY",(DE): DISNEY CHANNEL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1350.ts
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="(DE): DISNEY CINEMAGIC" tvg-logo="" group-title="GERMANY",(DE): DISNEY CINEMAGIC
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1351.ts
+#EXTINF:-1 tvg-id="Disney Jr. HD" tvg-name="(DE): DISNEY JUNIOR" tvg-logo="" group-title="GERMANY",(DE): DISNEY JUNIOR
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1352.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="(DE): DISNEY XD" tvg-logo="" group-title="GERMANY",(DE): DISNEY XD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1353.ts
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="(DE): MTV" tvg-logo="" group-title="GERMANY",(DE): MTV
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1357.ts
+#EXTINF:-1 tvg-id="" tvg-name="(AS): [DE] SPORT DIGITAL" tvg-logo="" group-title="ALL SPORTS",(AS): [DE] SPORT DIGITAL
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): SKY 3D" tvg-logo="" group-title="GERMANY",(DE): SKY 3D
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/4161.ts
+#EXTINF:-1 tvg-id="Sky Select 1" tvg-name="(DE): SKY SELECT 1" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1272.ts
+#EXTINF:-1 tvg-id="Sky Select 2" tvg-name="(DE): SKY SELECT 2" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1273.ts
+#EXTINF:-1 tvg-id="Sky Select 3" tvg-name="(DE): SKY SELECT 3" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 3
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1274.ts
+#EXTINF:-1 tvg-id="Sky Select 4" tvg-name="(DE): SKY SELECT 4" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 4
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1275.ts
+#EXTINF:-1 tvg-id="Sky Select 5" tvg-name="(DE): SKY SELECT 5" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 5
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1276.ts
+#EXTINF:-1 tvg-id="Sky Select 6" tvg-name="(DE): SKY SELECT 6" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 6
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1277.ts
+#EXTINF:-1 tvg-id="Sky Select 7" tvg-name="(DE): SKY SELECT 7" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 7
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1359.ts
+#EXTINF:-1 tvg-id="Sky Select 8" tvg-name="(DE): SKY SELECT 8" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 8
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1360.ts
+#EXTINF:-1 tvg-id="Sky Select 9" tvg-name="(DE): SKY SELECT 9" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 9
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1361.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): SKY SELECT 10" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/sky%20select.png" group-title="GERMANY",(DE): SKY SELECT 10
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1362.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): MAX PREMIERE HD" tvg-logo="" group-title="GERMANY",(DE): MAX PREMIERE HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/10954.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): MAX PREMIERE 2 HD" tvg-logo="" group-title="GERMANY",(DE): MAX PREMIERE 2 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/10955.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): MAX PREMIERE 3 HD" tvg-logo="" group-title="GERMANY",(DE): MAX PREMIERE 3 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/10956.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): FILM GOLD HD 1" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/film%20gold.png" group-title="GERMANY",(DE): FILM GOLD HD 1
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1363.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): FILM GOLG HD 2" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/film%20gold.png" group-title="GERMANY",(DE): FILM GOLG HD 2
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1364.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): FILM GOLD 3 HD" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/film%20gold.png" group-title="GERMANY",(DE): FILM GOLD 3 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1365.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): FILM GOLD 4 HD" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/film%20gold.png" group-title="GERMANY",(DE): FILM GOLD 4 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1366.ts
+#EXTINF:-1 tvg-id="" tvg-name="(DE): FILM GOLD 5 HD" tvg-logo="http://iptv.iptvsub.info/icons/logos%20germany/film%20gold.png" group-title="GERMANY",(DE): FILM GOLD 5 HD
+http://iptv.iptvsub.info:8880/live/xristosxdx2/281218/1367.ts
