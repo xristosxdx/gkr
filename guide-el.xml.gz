@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.4 -- Jan van Straaten" generator-info-url="http://forums.openpli.org">
+  <channel id="TLC.gr">
+    <display-name lang="en">TLC</display-name>
+  </channel>
+  <channel id="DiscoveryScience.gr">
+    <display-name lang="en">Science (Discovery)</display-name>
+  </channel>
+  <channel id="DiscoveryID.gr">
+    <display-name lang="en">ID (Discovery) IDX HD</display-name>
+  </channel>
+  <channel id="InvestigationDiscovery.cy">
+    <display-name lang="en">Investigation Discovery</display-name>
+  </channel>
+  <channel id="Mad.cy">
+    <display-name lang="en">Mad Cyprus</display-name>
+  </channel>
+  <channel id="ALPHACYPRUS.cy">
+    <display-name lang="el">ALPHA CYPRUS</display-name>
+  </channel>
+  <channel id="ANT1.cy">
+    <display-name lang="el">ANT1 Cyprus</display-name>
+  </channel>
+  <channel id="CapitalTV.cy">
+    <display-name lang="en">Capital TV</display-name>
+  </channel>
+  <channel id="RIK1.cy">
+    <display-name lang="el">Rik 1</display-name>
+  </channel>
+  <channel id="RIK2.cy">
+    <display-name lang="el">Rik 2</display-name>
+  </channel>
+  <channel id="ERTWorld.gr">
+    <display-name lang="el">ERT World</display-name>
+  </channel>
+  <channel id="Extra.cy">
+    <display-name lang="el">Extra Cyprus</display-name>
+  </channel>
+  <channel id="PlusTV.cy">
+    <display-name lang="el">Plus TV</display-name>
+  </channel>
+  <channel id="SigmaTV.cy">
+    <display-name lang="el">Sigma TV</display-name>
+  </channel>
+  <channel id="TVOne.cy">
+    <display-name lang="el">TV One Cyprus</display-name>
+  </channel>
+  <channel id="MotorsTV.gr">
+    <display-name lang="el">Motors TV</display-name>
+  </channel>
+  <channel id="MTV.gr">
+    <display-name lang="el">MTV</display-name>
+  </channel>
+  <channel id="MADTV.gr">
+    <display-name lang="el">MAD TV</display-name>
+  </channel>
+  <channel id="NovaLife.gr">
+    <display-name lang="el">novalife</display-name>
+  </channel>
+  <channel id="EPT1.gr">
+    <display-name lang="el">ΕΡΤ1</display-name>
+  </channel>
+  <channel id="Macedonia.gr">
+    <display-name lang="el">Macedonia TV</display-name>
+  </channel>
+  <channel id="vouli.gr">
+    <display-name lang="el">Vouli</display-name>
+  </channel>
+  <channel id="Action24.gr">
+    <display-name lang="el">Action 24</display-name>
+  </channel>
+  <channel id="TheHistoryChannel.gr">
+    <display-name lang="el">History</display-name>
+  </channel>
+  <channel id="MADGreekz.gr">
+    <display-name lang="el">Mad Greekz</display-name>
+  </channel>
+  <channel id="Skai.gr">
+    <display-name lang="el">Skai</display-name>
+  </channel>
+  <channel id="Boomerang.gr">
+    <display-name lang="el">Boomerang</display-name>
+  </channel>
+  <channel id="DiscoveryHD.gr">
+    <display-name lang="el">Discovery Showcase HD</display-name>
+  </channel>
+  <channel id="Mezzo.gr">
+    <display-name lang="el">Mezzo</display-name>
+  </channel>
+  <channel id="EPT2.gr">
+    <display-name lang="el">ΕΡΤ2</display-name>
+  </channel>
+  <channel id="EPT3.gr">
+    <display-name lang="el">ΕΡΤ3</display-name>
+  </channel>
+  <channel id="star.gr">
+    <display-name lang="el">Star</display-name>
+  </channel>
+  <channel id="Kontra.gr">
+    <display-name lang="el">Kontra Channel</display-name>
+  </channel>
+  <channel id="EuroSport1.gr">
+    <display-name lang="el">Eurosport</display-name>
+  </channel>
+  <channel id="EuroSport2.gr">
+    <display-name lang="el">Eurosport2</display-name>
+  </channel>
+  <channel id="natgeoHD.gr">
+    <display-name lang="el">National Geographic HD</display-name>
+  </channel>
+  <channel id="animalplanet.gr">
+    <display-name lang="el">Animal Planet</display-name>
+  </channel>
+  <channel id="EPT-HD.gr">
+    <display-name lang="el">ΔΤ HD</display-name>
+  </channel>
+  <channel id="Foxlife.gr">
+    <display-name lang="el">FOX Life</display-name>
+  </channel>
+  <channel id="discovery.gr">
+    <display-name lang="el">Discovery Channel</display-name>
+  </channel>
+  <channel id="TAG2018">
+    <display-name lang="el">TAG2018</display-name>
+  </channel>
+  <programme start="20182812" stop="20192812" channel="TAG2018">
+    <title lang="el">TAG2018</title>
+    <sub-title lang="el">[Κατάλληλο για όλους]</sub-title>
+    <desc lang="el">Για ένα μήνα κάθε χρόνο, πέντε εξαιρετικά ανταγωνιστικοί φίλοι ξεκινούν ένα παιχνίδι tag (κυνηγητού) μέχρις εσχάτων, το οποίο και παίζουν από την Α` Δημοτικού, ρισκάροντας τα πάντα, από τις δουλειές τους μέχρι τις σχέσεις τους, για να νικήσουν και να βροντοφωνάξουν, «Σε Κόλλησα!». Φέτος το παιχνίδι συμπίπτει με το γάμο του μοναδικού αήττητου παίκτη, κάτι που μάλλον θα τον κάνει εύκολο στόχο. Αλλά ο ίδιος ξέρει ότι έρχονται... και είναι πανέτοιμος.</desc>
+  </programme>
+  </tv>
